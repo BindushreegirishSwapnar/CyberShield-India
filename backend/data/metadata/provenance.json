@@ -1,0 +1,27 @@
+{
+  "project": "Predictive Cyber Crime Intelligence, Risk Assessment and Complaint Analytics Platform",
+  "provenance_metadata": {
+    "india_complaint_dataset": {
+      "source_title": "National Cyber Crime Reporting Portal (NCRP) & NCRB Open Data Standards",
+      "geographic_coverage": "20 Major Indian States & Union Territories",
+      "time_period": "2019 - 2026",
+      "total_records": 5000,
+      "domain": "Citizen Cyber Crime Complaints & Police Dispositions",
+      "data_classification": "Synthetic Demonstration Dataset (Coherent Relational Schema)",
+      "purpose": "State-wise trend forecasting, spatial analysis, link graph clustering, and Power BI analytics"
+    },
+    "network_telemetry_dataset": {
+      "source_title": "Canadian Institute for Cybersecurity (CIC-IDS2017) Telemetry Sample",
+      "type": "Network Packet and Flow Level Traffic Logs",
+      "demarcation": "Technical network intrusion metrics, isolated from Indian citizen complaint data.",
+      "total_records": 1200
+    }
+  },
+  "normalization_standards": {
+    "complaint_id_format": "CC-YYYY-STATECODE-SERIAL (e.g., CC-2026-KA-000184)",
+    "currency": "INR (\u20b9)",
+    "risk_score_scale": "0 to 100 (Low, Moderate, High, Critical)",
+    "datetime_format": "ISO 8601 (YYYY-MM-DD HH:MM:SS)"
+  },
+  "last_pipeline_run": "2026-09-30T00:09:02.622872"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CyberShield India</string>
+    <string name="title_activity_main">CyberShield India</string>
+    <string name="package_name">gov.in.cybershield</string>
+    <string name="custom_url_scheme">gov.in.cybershield</string>
+</resources>

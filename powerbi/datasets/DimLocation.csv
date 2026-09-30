@@ -1,0 +1,89 @@
+state,district,city,cyber_cell_station,LocationKey
+Maharashtra,Mumbai,Mumbai,,1
+Delhi,Delhi,Delhi,,2
+Karnataka,Bangalore,Bangalore,,3
+Telangana,Hyderabad,Hyderabad,,4
+Tamil Nadu,Chennai,Chennai,,5
+Karnataka,Bengaluru,Bengaluru,,6
+Delhi,New Delhi,New Delhi,,7
+Maharashtra,Pune,Pune,,8
+Maharashtra,Kolkata,Kolkata,,9
+Maharashtra,Ahmedabad,Ahmedabad,,10
+Karnataka,Mysuru,Mysuru,"City Cyber Cell, Mysuru Urban Police",11
+Maharashtra,Mumbai,Mumbai,"South Region Cyber Police Station, BKC Mumbai",12
+Telangana,Hyderabad,Hyderabad,"Cyber Crimes Police Station, CCS Hyderabad City Police",13
+Delhi,Central Delhi,Central Delhi,"Cyber Cell, Daryaganj, Central Delhi Police",14
+Tamil Nadu,Chennai,Chennai,"Cyber Crime Cell, Central Crime Branch (CCB), Vepery",15
+Uttar Pradesh,Kanpur,Kanpur,"CEN Cyber Police Station, Kanpur Nagar",16
+Gujarat,Surat,Surat,"Cyber Crime Cell, Athwalines Surat",17
+West Bengal,Kolkata,Kolkata,"Cyber Police Station, Lalbazar Kolkata Police",18
+Maharashtra,Nagpur,Nagpur,"Cyber Police Station, Crime Branch Nagpur",19
+Karnataka,Mangaluru,Mangaluru,"Cyber Economic & Narcotics (CEN) PS, Mangaluru",20
+Telangana,Rachakonda,Rachakonda,"Cyber Crimes Cell, Rachakonda Police Commissionerate",21
+Delhi,South Delhi,South Delhi,"Cyber Police Station, South District, Saket",22
+Maharashtra,Pune,Pune,"Cyber Crime Investigation Cell, Shivajinagar Pune",23
+Uttar Pradesh,Noida,Noida,"Cyber Crime Police Station, Sector 36 Gautam Buddha Nagar Noida",24
+Delhi,New Delhi,New Delhi,"Cyber Police Station, Central District, Daryaganj New Delhi",25
+West Bengal,Kolkata,Kolkata,"Cyber Police Station, Lalbazar Kolkata Police HQ",26
+Maharashtra,Mumbai,Mumbai,"South Region Cyber Police Station, BKC Bandra Mumbai",27
+Karnataka,Mysuru,Mysuru,"City Cyber Crime Police Station, Mysuru Urban Police",28
+Gujarat,Ahmedabad,Ahmedabad,"Cyber Crime Police Station, Crime Branch, Gaekwad Haveli Ahmedabad",29
+Tamil Nadu,Chennai,Chennai,"Cyber Crime Cell, Central Crime Branch (CCB), Vepery Chennai",30
+Karnataka,Mangaluru,Mangaluru,"Cyber Economic & Narcotics (CEN) PS, Mangaluru City",31
+Uttar Pradesh,Lucknow,Lucknow,"Cyber Crime Police Station, Hazratganj Lucknow",32
+Karnataka,Bengaluru,Bengaluru,"Cyber Crime Police Station, CID Karnataka, Palace Road",33
+Delhi,Delhi,Delhi,"Special Cell Cyber Prevention (IFSO Unit), Dwarka Delhi",34
+Maharashtra,Benagaluru,Benagaluru,"South Region Cyber Police Station, BKC Bandra Mumbai",35
+West Bengal,Howrah,Howrah,Howrah City Cyber Crime Cell,36
+Uttarakhand,Haridwar,Haridwar,Haridwar District Cyber Cell,37
+Andhra Pradesh,Visakhapatnam,Visakhapatnam,"Cyber Crime Police Station, Visakhapatnam City",38
+Haryana,Gurugram,Gurugram,"Cyber Crime Police Station, Sector 43 Gurugram",39
+Karnataka,Hubballi,Hubballi,Hubballi-Dharwad Cyber Police Station,40
+Haryana,Panchkula,Panchkula,"State Cyber Crime Branch HQ, Panchkula",41
+Uttar Pradesh,Kanpur,Kanpur,Kanpur Nagar Cyber Crime Police Station,42
+Uttar Pradesh,Varanasi,Varanasi,"Varanasi Cyber Cell, Sigra",43
+Uttarakhand,Haldwani,Haldwani,"Nainital District Cyber Crime Unit, Haldwani",44
+Delhi,South Delhi,South Delhi,"South District Cyber Crime PS, Hauz Khas",45
+Madhya Pradesh,Bhopal,Bhopal,"State Cyber Police HQ, Bhadbhada Road Bhopal",46
+Chhattisgarh,Raipur,Raipur,"State Cyber Police Thana, Telibandha Raipur",47
+Bihar,Gaya,Gaya,Gaya District Cyber Cell,48
+Gujarat,Surat,Surat,"Surat City Cyber Crime Cell, Athwalines",49
+Delhi,New Delhi,New Delhi,"Special Cell Cyber Prevention (IFSO Unit), Dwarka Delhi",50
+Kerala,Thiruvananthapuram,Thiruvananthapuram,"Cyber Crime Police Station, Kerala Police HQ, Pattom",51
+Jharkhand,Ranchi,Ranchi,"Cyber Crime Police Station, CID Jharkhand, Doranda Ranchi",52
+Tamil Nadu,Madurai,Madurai,Madurai City Cyber Crime Wing,53
+Punjab,Ludhiana,Ludhiana,Ludhiana Commissionerate Cyber Crime Unit,54
+Gujarat,Vadodara,Vadodara,Vadodara Cyber Police Station,55
+Kerala,Kozhikode,Kozhikode,Kozhikode City Cyber Police Station,56
+Andhra Pradesh,Guntur,Guntur,Guntur Urban Cyber Police Station,57
+Assam,Dibrugarh,Dibrugarh,Dibrugarh District Cyber Cell,58
+Chhattisgarh,Durg,Durg,Durg-Bhilai Cyber Crime PS,59
+Rajasthan,Jaipur,Jaipur,"Cyber Police Station, Jaipur Police Commissionerate",60
+West Bengal,Siliguri,Siliguri,Siliguri Commissionerate Cyber Cell,61
+Punjab,Amritsar,Amritsar,Amritsar Cyber Crime Police Station,62
+Chhattisgarh,Bilaspur,Bilaspur,Bilaspur Range Cyber Crime Cell,63
+Karnataka,Mysuru,Mysuru,"City Cyber Crime Police Station, Mysuru Urban",64
+Jharkhand,Dhanbad,Dhanbad,Dhanbad Cyber Police Station,65
+Haryana,Faridabad,Faridabad,Faridabad NIT Cyber Police Station,66
+Jharkhand,Jamshedpur,Jamshedpur,"East Singhbhum Cyber Crime PS, Sakchi",67
+Andhra Pradesh,Vijayawada,Vijayawada,"NTR Police Commissionerate Cyber Cell, Vijayawada",68
+Maharashtra,Thane,Thane,Thane Commissionerate Cyber Police Station,69
+Tamil Nadu,Coimbatore,Coimbatore,Coimbatore City Cyber Crime Police Station,70
+Odisha,Rourkela,Rourkela,Rourkela Cyber Police Station,71
+Rajasthan,Udaipur,Udaipur,Udaipur District Cyber Crime Cell,72
+Kerala,Kochi,Kochi,"Cyber Cell, Kochi City Police, Ernakulam",73
+Madhya Pradesh,Indore,Indore,"Indore Police Commissionerate Cyber Cell, Palasia",74
+Assam,Silchar,Silchar,Cachar District Cyber Crime Wing,75
+Odisha,Bhubaneswar,Bhubaneswar,"Cyber Police Station, CID CB Odisha, Cuttack/Bhubaneswar",76
+Telangana,Warangal,Warangal,Warangal Commissionerate Cyber Cell,77
+Punjab,Chandigarh,Chandigarh,"State Cyber Crime Cell, Phase 4 SAS Nagar Mohali",78
+Bihar,Patna,Patna,"Cyber Crime Police Station, Kotwali Patna",79
+Odisha,Cuttack,Cuttack,Cuttack Commissionerate Cyber Cell,80
+Delhi,Central Delhi,Central Delhi,"Cyber Police Station, Central District, Daryaganj New Delhi",81
+Maharashtra,Nagpur,Nagpur,Nagpur City Cyber Crime Cell,82
+Uttarakhand,Dehradun,Dehradun,"Special Task Force Cyber Crime Police Station, Dalanwala Dehradun",83
+Assam,Guwahati,Guwahati,"CID Cyber Crime Police Station, Ulubari Guwahati",84
+Rajasthan,Jodhpur,Jodhpur,Jodhpur Range Cyber Crime Police Station,85
+Madhya Pradesh,Gwalior,Gwalior,Gwalior Cyber Cell,86
+Telangana,Cyberabad,Cyberabad,"Cyberabad Cyber Crime Police Station, Gachibowli",87
+Bihar,Muzaffarpur,Muzaffarpur,Muzaffarpur Cyber Police Station,88

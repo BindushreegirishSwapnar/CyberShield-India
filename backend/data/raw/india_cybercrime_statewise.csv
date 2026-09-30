@@ -1,0 +1,1401 @@
+State_UT,State_Code,Year,Crime_Category,Reported_Cases,Cases_Chargesheeted,Cases_Convicted,Persons_Arrested,Estimated_Loss_Cr_INR
+Karnataka,KA,2019,UPI / Online Banking Fraud,3611,1871,575,2988,9.55
+Karnataka,KA,2019,Phishing & Social Engineering,2280,1055,310,1769,8.04
+Karnataka,KA,2019,Identity Theft & Impersonation,1840,1115,485,1999,10.11
+Karnataka,KA,2019,Cyber Stalking & Bullying,1449,844,336,1057,10.51
+Karnataka,KA,2019,Ransomware & Malware Attacks,978,513,226,589,7.23
+Karnataka,KA,2019,Corporate Data Breach,816,467,130,609,3.71
+Karnataka,KA,2019,Account Takeover,1165,580,189,739,4.85
+Karnataka,KA,2019,Investment & Cryptocurrency Fraud,1122,606,280,1024,2.94
+Karnataka,KA,2019,E-Commerce & Shopping Scam,746,337,121,481,3.27
+Karnataka,KA,2019,Job & Recruitment Fraud,436,222,83,391,3.2
+Karnataka,KA,2020,UPI / Online Banking Fraud,3830,2039,716,2557,23.83
+Karnataka,KA,2020,Phishing & Social Engineering,2317,1093,519,1830,8.24
+Karnataka,KA,2020,Identity Theft & Impersonation,2217,1251,407,1886,7.37
+Karnataka,KA,2020,Cyber Stalking & Bullying,1505,959,257,1710,5.41
+Karnataka,KA,2020,Ransomware & Malware Attacks,1254,754,215,952,5.31
+Karnataka,KA,2020,Corporate Data Breach,833,438,135,656,5.22
+Karnataka,KA,2020,Account Takeover,1263,573,247,678,9.82
+Karnataka,KA,2020,Investment & Cryptocurrency Fraud,968,428,128,674,6.29
+Karnataka,KA,2020,E-Commerce & Shopping Scam,920,544,142,854,2.91
+Karnataka,KA,2020,Job & Recruitment Fraud,474,211,70,307,3.19
+Karnataka,KA,2021,UPI / Online Banking Fraud,5401,2669,1049,4457,30.29
+Karnataka,KA,2021,Phishing & Social Engineering,3021,1348,512,1578,22.74
+Karnataka,KA,2021,Identity Theft & Impersonation,2546,1282,370,2036,20.85
+Karnataka,KA,2021,Cyber Stalking & Bullying,1914,1121,407,1998,13.6
+Karnataka,KA,2021,Ransomware & Malware Attacks,1302,845,222,1290,7.89
+Karnataka,KA,2021,Corporate Data Breach,864,527,230,711,3.52
+Karnataka,KA,2021,Account Takeover,1342,834,306,1175,7.46
+Karnataka,KA,2021,Investment & Cryptocurrency Fraud,1218,595,230,1051,5.17
+Karnataka,KA,2021,E-Commerce & Shopping Scam,808,368,165,568,5.36
+Karnataka,KA,2021,Job & Recruitment Fraud,509,316,106,471,3.5
+Karnataka,KA,2022,UPI / Online Banking Fraud,5343,2563,662,3856,21.61
+Karnataka,KA,2022,Phishing & Social Engineering,3943,1786,822,3045,16.92
+Karnataka,KA,2022,Identity Theft & Impersonation,2506,1213,418,1662,18.95
+Karnataka,KA,2022,Cyber Stalking & Bullying,1826,1184,354,1925,5.13
+Karnataka,KA,2022,Ransomware & Malware Attacks,1521,970,383,1524,5.76
+Karnataka,KA,2022,Corporate Data Breach,1121,604,209,767,6.2
+Karnataka,KA,2022,Account Takeover,1920,929,361,1598,15.7
+Karnataka,KA,2022,Investment & Cryptocurrency Fraud,1562,784,342,909,8.35
+Karnataka,KA,2022,E-Commerce & Shopping Scam,1081,573,240,961,7.13
+Karnataka,KA,2022,Job & Recruitment Fraud,602,358,105,464,3.61
+Karnataka,KA,2023,UPI / Online Banking Fraud,7321,3945,1514,6447,20.53
+Karnataka,KA,2023,Phishing & Social Engineering,3415,1754,757,2829,25.66
+Karnataka,KA,2023,Identity Theft & Impersonation,2573,1161,426,1510,18.72
+Karnataka,KA,2023,Cyber Stalking & Bullying,2179,928,378,1264,18.25
+Karnataka,KA,2023,Ransomware & Malware Attacks,1385,632,236,929,6.56
+Karnataka,KA,2023,Corporate Data Breach,974,463,212,706,3.4
+Karnataka,KA,2023,Account Takeover,1768,1026,437,1485,7.43
+Karnataka,KA,2023,Investment & Cryptocurrency Fraud,1527,761,351,999,8.87
+Karnataka,KA,2023,E-Commerce & Shopping Scam,1136,647,288,969,3.63
+Karnataka,KA,2023,Job & Recruitment Fraud,694,342,121,594,2.48
+Karnataka,KA,2024,UPI / Online Banking Fraud,6945,2996,1413,4017,49.8
+Karnataka,KA,2024,Phishing & Social Engineering,4184,1812,464,2736,17.8
+Karnataka,KA,2024,Identity Theft & Impersonation,3175,1952,666,2651,24.97
+Karnataka,KA,2024,Cyber Stalking & Bullying,2346,1056,394,1792,6.0
+Karnataka,KA,2024,Ransomware & Malware Attacks,1839,1100,350,1308,15.13
+Karnataka,KA,2024,Corporate Data Breach,1247,731,315,1053,6.18
+Karnataka,KA,2024,Account Takeover,1764,1015,441,1223,8.93
+Karnataka,KA,2024,Investment & Cryptocurrency Fraud,1990,1043,399,1286,14.5
+Karnataka,KA,2024,E-Commerce & Shopping Scam,1118,724,236,1150,4.86
+Karnataka,KA,2024,Job & Recruitment Fraud,670,287,76,336,2.59
+Karnataka,KA,2025,UPI / Online Banking Fraud,8512,5295,2428,6912,29.98
+Karnataka,KA,2025,Phishing & Social Engineering,4610,2413,1097,2932,29.75
+Karnataka,KA,2025,Identity Theft & Impersonation,2981,1505,640,2180,19.92
+Karnataka,KA,2025,Cyber Stalking & Bullying,2486,1583,534,2227,7.09
+Karnataka,KA,2025,Ransomware & Malware Attacks,2065,1299,448,2123,13.65
+Karnataka,KA,2025,Corporate Data Breach,1537,748,208,1173,6.1
+Karnataka,KA,2025,Account Takeover,2326,1346,386,1605,10.6
+Karnataka,KA,2025,Investment & Cryptocurrency Fraud,1676,762,267,1024,9.49
+Karnataka,KA,2025,E-Commerce & Shopping Scam,1204,601,274,771,6.19
+Karnataka,KA,2025,Job & Recruitment Fraud,750,340,102,395,3.3
+Maharashtra,MH,2019,UPI / Online Banking Fraud,5261,3359,1570,5046,42.54
+Maharashtra,MH,2019,Phishing & Social Engineering,3161,1791,761,3094,26.86
+Maharashtra,MH,2019,Identity Theft & Impersonation,2181,1407,425,2526,15.15
+Maharashtra,MH,2019,Cyber Stalking & Bullying,1766,1015,273,1610,9.35
+Maharashtra,MH,2019,Ransomware & Malware Attacks,1074,613,224,911,8.95
+Maharashtra,MH,2019,Corporate Data Breach,890,523,206,661,4.41
+Maharashtra,MH,2019,Account Takeover,1463,927,246,1562,6.94
+Maharashtra,MH,2019,Investment & Cryptocurrency Fraud,1060,687,267,1206,8.68
+Maharashtra,MH,2019,E-Commerce & Shopping Scam,974,583,185,679,5.67
+Maharashtra,MH,2019,Job & Recruitment Fraud,459,255,72,363,3.63
+Maharashtra,MH,2020,UPI / Online Banking Fraud,4946,2373,640,3619,39.5
+Maharashtra,MH,2020,Phishing & Social Engineering,3022,1315,629,1959,20.18
+Maharashtra,MH,2020,Identity Theft & Impersonation,2129,1116,380,1924,17.35
+Maharashtra,MH,2020,Cyber Stalking & Bullying,1846,880,394,1344,9.73
+Maharashtra,MH,2020,Ransomware & Malware Attacks,1443,693,231,932,4.4
+Maharashtra,MH,2020,Corporate Data Breach,1050,673,253,1038,3.65
+Maharashtra,MH,2020,Account Takeover,1507,873,234,1135,6.26
+Maharashtra,MH,2020,Investment & Cryptocurrency Fraud,1617,857,306,1493,11.81
+Maharashtra,MH,2020,E-Commerce & Shopping Scam,1122,544,259,743,9.34
+Maharashtra,MH,2020,Job & Recruitment Fraud,675,345,148,558,3.21
+Maharashtra,MH,2021,UPI / Online Banking Fraud,5329,3079,1434,3864,29.39
+Maharashtra,MH,2021,Phishing & Social Engineering,3102,1428,600,1792,21.95
+Maharashtra,MH,2021,Identity Theft & Impersonation,2764,1523,571,1790,9.2
+Maharashtra,MH,2021,Cyber Stalking & Bullying,1929,973,247,1312,16.39
+Maharashtra,MH,2021,Ransomware & Malware Attacks,1730,1120,501,1484,7.63
+Maharashtra,MH,2021,Corporate Data Breach,934,440,193,569,5.91
+Maharashtra,MH,2021,Account Takeover,1858,958,365,1054,14.89
+Maharashtra,MH,2021,Investment & Cryptocurrency Fraud,1474,768,290,1292,12.45
+Maharashtra,MH,2021,E-Commerce & Shopping Scam,1224,697,331,1039,8.47
+Maharashtra,MH,2021,Job & Recruitment Fraud,614,397,182,604,3.0
+Maharashtra,MH,2022,UPI / Online Banking Fraud,6055,3820,1103,6433,31.65
+Maharashtra,MH,2022,Phishing & Social Engineering,4259,2317,665,4152,33.34
+Maharashtra,MH,2022,Identity Theft & Impersonation,2950,1616,548,2561,14.82
+Maharashtra,MH,2022,Cyber Stalking & Bullying,2270,1022,304,1829,15.11
+Maharashtra,MH,2022,Ransomware & Malware Attacks,1995,1244,567,1897,9.46
+Maharashtra,MH,2022,Corporate Data Breach,1423,718,284,922,11.0
+Maharashtra,MH,2022,Account Takeover,1901,962,288,1254,12.06
+Maharashtra,MH,2022,Investment & Cryptocurrency Fraud,1899,1125,525,1998,6.25
+Maharashtra,MH,2022,E-Commerce & Shopping Scam,1288,555,155,749,5.01
+Maharashtra,MH,2022,Job & Recruitment Fraud,744,347,117,383,4.61
+Maharashtra,MH,2023,UPI / Online Banking Fraud,7390,3457,1567,5917,24.02
+Maharashtra,MH,2023,Phishing & Social Engineering,4825,2619,927,3908,39.04
+Maharashtra,MH,2023,Identity Theft & Impersonation,3704,2371,940,3964,10.65
+Maharashtra,MH,2023,Cyber Stalking & Bullying,2223,1193,343,1747,10.77
+Maharashtra,MH,2023,Ransomware & Malware Attacks,2133,1024,387,1356,6.78
+Maharashtra,MH,2023,Corporate Data Breach,1599,889,224,1342,9.74
+Maharashtra,MH,2023,Account Takeover,2088,1067,275,1355,10.56
+Maharashtra,MH,2023,Investment & Cryptocurrency Fraud,1800,1049,436,1257,5.74
+Maharashtra,MH,2023,E-Commerce & Shopping Scam,1430,751,238,1325,5.2
+Maharashtra,MH,2023,Job & Recruitment Fraud,940,581,195,731,3.57
+Maharashtra,MH,2024,UPI / Online Banking Fraud,8817,4384,2011,6175,72.14
+Maharashtra,MH,2024,Phishing & Social Engineering,4647,2561,1036,4250,20.7
+Maharashtra,MH,2024,Identity Theft & Impersonation,3410,2201,715,2732,16.22
+Maharashtra,MH,2024,Cyber Stalking & Bullying,3017,1830,481,2181,15.16
+Maharashtra,MH,2024,Ransomware & Malware Attacks,2434,1459,448,2118,12.6
+Maharashtra,MH,2024,Corporate Data Breach,1697,730,324,1260,9.08
+Maharashtra,MH,2024,Account Takeover,2454,1453,675,2495,19.35
+Maharashtra,MH,2024,Investment & Cryptocurrency Fraud,2446,1482,538,2363,11.23
+Maharashtra,MH,2024,E-Commerce & Shopping Scam,1620,1035,341,1542,12.84
+Maharashtra,MH,2024,Job & Recruitment Fraud,875,436,142,746,4.89
+Maharashtra,MH,2025,UPI / Online Banking Fraud,8316,4490,1346,7460,70.58
+Maharashtra,MH,2025,Phishing & Social Engineering,5866,2995,1120,4498,36.89
+Maharashtra,MH,2025,Identity Theft & Impersonation,3583,1855,864,2772,9.22
+Maharashtra,MH,2025,Cyber Stalking & Bullying,2574,1295,517,2236,11.85
+Maharashtra,MH,2025,Ransomware & Malware Attacks,2208,1083,434,1463,17.73
+Maharashtra,MH,2025,Corporate Data Breach,1630,857,343,1537,9.38
+Maharashtra,MH,2025,Account Takeover,2374,1064,454,1204,9.8
+Maharashtra,MH,2025,Investment & Cryptocurrency Fraud,2371,1438,490,1721,13.09
+Maharashtra,MH,2025,E-Commerce & Shopping Scam,1834,1061,397,1494,9.95
+Maharashtra,MH,2025,Job & Recruitment Fraud,955,428,183,506,7.36
+Telangana,TS,2019,UPI / Online Banking Fraud,3159,1984,875,2632,9.2
+Telangana,TS,2019,Phishing & Social Engineering,1739,779,285,1076,12.54
+Telangana,TS,2019,Identity Theft & Impersonation,1566,894,312,1254,13.17
+Telangana,TS,2019,Cyber Stalking & Bullying,936,590,185,1024,7.53
+Telangana,TS,2019,Ransomware & Malware Attacks,790,442,180,543,2.15
+Telangana,TS,2019,Corporate Data Breach,513,267,76,472,1.89
+Telangana,TS,2019,Account Takeover,881,414,116,738,2.27
+Telangana,TS,2019,Investment & Cryptocurrency Fraud,948,490,168,867,4.93
+Telangana,TS,2019,E-Commerce & Shopping Scam,529,307,79,400,2.77
+Telangana,TS,2019,Job & Recruitment Fraud,331,157,42,190,2.16
+Telangana,TS,2020,UPI / Online Banking Fraud,3770,1851,502,2937,21.47
+Telangana,TS,2020,Phishing & Social Engineering,2482,1398,604,1663,9.27
+Telangana,TS,2020,Identity Theft & Impersonation,1950,1126,458,1283,9.78
+Telangana,TS,2020,Cyber Stalking & Bullying,1467,704,325,833,12.26
+Telangana,TS,2020,Ransomware & Malware Attacks,1028,502,161,701,4.11
+Telangana,TS,2020,Corporate Data Breach,666,374,177,514,4.39
+Telangana,TS,2020,Account Takeover,1004,521,167,665,7.67
+Telangana,TS,2020,Investment & Cryptocurrency Fraud,1074,660,182,940,7.19
+Telangana,TS,2020,E-Commerce & Shopping Scam,763,336,108,474,4.32
+Telangana,TS,2020,Job & Recruitment Fraud,488,259,73,330,2.34
+Telangana,TS,2021,UPI / Online Banking Fraud,4434,2742,873,4165,27.77
+Telangana,TS,2021,Phishing & Social Engineering,2414,1028,307,1139,15.92
+Telangana,TS,2021,Identity Theft & Impersonation,2166,1035,359,1632,15.32
+Telangana,TS,2021,Cyber Stalking & Bullying,1536,842,396,1253,5.79
+Telangana,TS,2021,Ransomware & Malware Attacks,1297,662,236,1110,3.37
+Telangana,TS,2021,Corporate Data Breach,731,320,137,530,2.02
+Telangana,TS,2021,Account Takeover,1400,836,321,1254,11.76
+Telangana,TS,2021,Investment & Cryptocurrency Fraud,1018,457,187,515,6.45
+Telangana,TS,2021,E-Commerce & Shopping Scam,826,524,231,672,4.62
+Telangana,TS,2021,Job & Recruitment Fraud,514,305,92,386,2.72
+Telangana,TS,2022,UPI / Online Banking Fraud,5635,3260,815,3845,35.27
+Telangana,TS,2022,Phishing & Social Engineering,2937,1850,837,2217,13.01
+Telangana,TS,2022,Identity Theft & Impersonation,2095,1294,452,1757,14.6
+Telangana,TS,2022,Cyber Stalking & Bullying,1523,705,320,1246,9.71
+Telangana,TS,2022,Ransomware & Malware Attacks,1448,625,162,817,10.13
+Telangana,TS,2022,Corporate Data Breach,896,419,115,714,2.5
+Telangana,TS,2022,Account Takeover,1362,691,218,915,5.8
+Telangana,TS,2022,Investment & Cryptocurrency Fraud,1444,640,304,1038,4.77
+Telangana,TS,2022,E-Commerce & Shopping Scam,864,509,209,779,6.22
+Telangana,TS,2022,Job & Recruitment Fraud,549,355,168,528,4.53
+Telangana,TS,2023,UPI / Online Banking Fraud,5065,3022,1306,3891,33.04
+Telangana,TS,2023,Phishing & Social Engineering,3586,1894,514,3165,16.22
+Telangana,TS,2023,Identity Theft & Impersonation,2435,1366,522,2141,10.47
+Telangana,TS,2023,Cyber Stalking & Bullying,2000,874,246,1370,9.39
+Telangana,TS,2023,Ransomware & Malware Attacks,1273,811,276,1300,9.48
+Telangana,TS,2023,Corporate Data Breach,1166,539,220,944,7.26
+Telangana,TS,2023,Account Takeover,1415,916,310,1511,7.18
+Telangana,TS,2023,Investment & Cryptocurrency Fraud,1328,805,217,1027,7.18
+Telangana,TS,2023,E-Commerce & Shopping Scam,1066,666,195,929,5.4
+Telangana,TS,2023,Job & Recruitment Fraud,553,333,131,527,4.2
+Telangana,TS,2024,UPI / Online Banking Fraud,6745,3676,1365,6587,42.33
+Telangana,TS,2024,Phishing & Social Engineering,3403,2174,625,2776,27.52
+Telangana,TS,2024,Identity Theft & Impersonation,2662,1360,535,1623,14.26
+Telangana,TS,2024,Cyber Stalking & Bullying,1934,934,444,1258,7.46
+Telangana,TS,2024,Ransomware & Malware Attacks,1622,872,223,1071,13.6
+Telangana,TS,2024,Corporate Data Breach,1100,668,282,1076,6.14
+Telangana,TS,2024,Account Takeover,1804,840,216,1283,8.29
+Telangana,TS,2024,Investment & Cryptocurrency Fraud,1573,979,366,1420,7.05
+Telangana,TS,2024,E-Commerce & Shopping Scam,1070,619,279,929,5.57
+Telangana,TS,2024,Job & Recruitment Fraud,743,363,154,468,4.36
+Telangana,TS,2025,UPI / Online Banking Fraud,6594,2864,821,3721,55.7
+Telangana,TS,2025,Phishing & Social Engineering,4427,1894,539,3038,18.05
+Telangana,TS,2025,Identity Theft & Impersonation,2912,1501,425,2264,20.02
+Telangana,TS,2025,Cyber Stalking & Bullying,2411,1033,300,1505,9.29
+Telangana,TS,2025,Ransomware & Malware Attacks,1884,843,344,1182,5.79
+Telangana,TS,2025,Corporate Data Breach,1259,686,188,974,8.71
+Telangana,TS,2025,Account Takeover,1756,1082,332,1762,7.05
+Telangana,TS,2025,Investment & Cryptocurrency Fraud,1742,1048,310,1734,6.72
+Telangana,TS,2025,E-Commerce & Shopping Scam,1332,636,279,987,8.91
+Telangana,TS,2025,Job & Recruitment Fraud,732,345,154,555,3.82
+Uttar Pradesh,UP,2019,UPI / Online Banking Fraud,3048,1797,501,2532,23.36
+Uttar Pradesh,UP,2019,Phishing & Social Engineering,2290,1312,525,1710,15.93
+Uttar Pradesh,UP,2019,Identity Theft & Impersonation,1509,901,376,1449,8.26
+Uttar Pradesh,UP,2019,Cyber Stalking & Bullying,1116,494,195,728,3.71
+Uttar Pradesh,UP,2019,Ransomware & Malware Attacks,993,564,217,1012,3.07
+Uttar Pradesh,UP,2019,Corporate Data Breach,587,321,100,444,2.2
+Uttar Pradesh,UP,2019,Account Takeover,1022,444,156,718,7.63
+Uttar Pradesh,UP,2019,Investment & Cryptocurrency Fraud,864,393,136,663,4.77
+Uttar Pradesh,UP,2019,E-Commerce & Shopping Scam,621,314,102,528,3.18
+Uttar Pradesh,UP,2019,Job & Recruitment Fraud,376,174,60,242,2.25
+Uttar Pradesh,UP,2020,UPI / Online Banking Fraud,4536,2733,867,3013,18.98
+Uttar Pradesh,UP,2020,Phishing & Social Engineering,2879,1336,421,1474,13.36
+Uttar Pradesh,UP,2020,Identity Theft & Impersonation,1850,1019,321,1467,5.7
+Uttar Pradesh,UP,2020,Cyber Stalking & Bullying,1283,690,209,1138,4.84
+Uttar Pradesh,UP,2020,Ransomware & Malware Attacks,1088,671,198,982,6.02
+Uttar Pradesh,UP,2020,Corporate Data Breach,737,441,136,740,5.13
+Uttar Pradesh,UP,2020,Account Takeover,1353,707,303,1090,10.13
+Uttar Pradesh,UP,2020,Investment & Cryptocurrency Fraud,1167,557,251,956,7.52
+Uttar Pradesh,UP,2020,E-Commerce & Shopping Scam,830,459,150,806,6.0
+Uttar Pradesh,UP,2020,Job & Recruitment Fraud,537,313,83,434,3.1
+Uttar Pradesh,UP,2021,UPI / Online Banking Fraud,4821,2275,866,3138,18.64
+Uttar Pradesh,UP,2021,Phishing & Social Engineering,2922,1504,591,2047,7.57
+Uttar Pradesh,UP,2021,Identity Theft & Impersonation,2095,1165,551,1652,9.75
+Uttar Pradesh,UP,2021,Cyber Stalking & Bullying,1402,839,373,1376,5.71
+Uttar Pradesh,UP,2021,Ransomware & Malware Attacks,1078,696,289,1057,4.46
+Uttar Pradesh,UP,2021,Corporate Data Breach,889,482,143,799,5.04
+Uttar Pradesh,UP,2021,Account Takeover,1277,630,219,735,5.72
+Uttar Pradesh,UP,2021,Investment & Cryptocurrency Fraud,1149,701,188,1123,7.99
+Uttar Pradesh,UP,2021,E-Commerce & Shopping Scam,863,441,150,560,2.23
+Uttar Pradesh,UP,2021,Job & Recruitment Fraud,456,214,71,335,2.51
+Uttar Pradesh,UP,2022,UPI / Online Banking Fraud,4918,2450,780,3363,15.26
+Uttar Pradesh,UP,2022,Phishing & Social Engineering,3599,1779,538,2002,16.98
+Uttar Pradesh,UP,2022,Identity Theft & Impersonation,2252,984,417,1687,15.93
+Uttar Pradesh,UP,2022,Cyber Stalking & Bullying,1845,1072,302,1421,7.31
+Uttar Pradesh,UP,2022,Ransomware & Malware Attacks,1554,728,265,982,4.47
+Uttar Pradesh,UP,2022,Corporate Data Breach,994,580,235,686,5.61
+Uttar Pradesh,UP,2022,Account Takeover,1798,1092,411,1452,10.82
+Uttar Pradesh,UP,2022,Investment & Cryptocurrency Fraud,1487,844,369,1465,9.92
+Uttar Pradesh,UP,2022,E-Commerce & Shopping Scam,1133,631,204,752,4.8
+Uttar Pradesh,UP,2022,Job & Recruitment Fraud,658,397,184,690,3.03
+Uttar Pradesh,UP,2023,UPI / Online Banking Fraud,6232,2950,1395,4778,21.63
+Uttar Pradesh,UP,2023,Phishing & Social Engineering,3452,1474,571,1906,13.64
+Uttar Pradesh,UP,2023,Identity Theft & Impersonation,2796,1248,572,2218,14.07
+Uttar Pradesh,UP,2023,Cyber Stalking & Bullying,2026,909,350,1244,11.03
+Uttar Pradesh,UP,2023,Ransomware & Malware Attacks,1663,927,246,1064,10.65
+Uttar Pradesh,UP,2023,Corporate Data Breach,1226,655,232,1054,4.35
+Uttar Pradesh,UP,2023,Account Takeover,1623,858,283,1289,5.42
+Uttar Pradesh,UP,2023,Investment & Cryptocurrency Fraud,1752,950,360,1663,8.58
+Uttar Pradesh,UP,2023,E-Commerce & Shopping Scam,1126,561,190,734,5.17
+Uttar Pradesh,UP,2023,Job & Recruitment Fraud,587,270,95,437,3.19
+Uttar Pradesh,UP,2024,UPI / Online Banking Fraud,5877,3257,1557,4863,27.64
+Uttar Pradesh,UP,2024,Phishing & Social Engineering,3653,2352,802,3141,26.05
+Uttar Pradesh,UP,2024,Identity Theft & Impersonation,3130,1913,512,2493,22.47
+Uttar Pradesh,UP,2024,Cyber Stalking & Bullying,1804,1002,319,1208,11.58
+Uttar Pradesh,UP,2024,Ransomware & Malware Attacks,1718,865,335,1147,9.93
+Uttar Pradesh,UP,2024,Corporate Data Breach,1288,711,291,1208,8.66
+Uttar Pradesh,UP,2024,Account Takeover,2079,1034,360,1570,16.86
+Uttar Pradesh,UP,2024,Investment & Cryptocurrency Fraud,1702,948,279,1104,9.42
+Uttar Pradesh,UP,2024,E-Commerce & Shopping Scam,1156,695,181,1246,5.74
+Uttar Pradesh,UP,2024,Job & Recruitment Fraud,615,395,100,601,1.96
+Uttar Pradesh,UP,2025,UPI / Online Banking Fraud,7794,4948,2321,5747,47.68
+Uttar Pradesh,UP,2025,Phishing & Social Engineering,3597,1720,550,2609,28.83
+Uttar Pradesh,UP,2025,Identity Theft & Impersonation,3049,1463,515,1745,15.83
+Uttar Pradesh,UP,2025,Cyber Stalking & Bullying,2185,1002,435,1353,7.96
+Uttar Pradesh,UP,2025,Ransomware & Malware Attacks,1556,718,191,1116,12.01
+Uttar Pradesh,UP,2025,Corporate Data Breach,1252,741,293,1293,6.08
+Uttar Pradesh,UP,2025,Account Takeover,2215,1194,307,1666,10.54
+Uttar Pradesh,UP,2025,Investment & Cryptocurrency Fraud,1592,854,233,982,4.33
+Uttar Pradesh,UP,2025,E-Commerce & Shopping Scam,1240,647,183,965,8.05
+Uttar Pradesh,UP,2025,Job & Recruitment Fraud,750,402,170,570,3.77
+Delhi,DL,2019,UPI / Online Banking Fraud,2521,1529,412,2433,16.41
+Delhi,DL,2019,Phishing & Social Engineering,1462,939,297,1104,12.37
+Delhi,DL,2019,Identity Theft & Impersonation,1106,575,187,895,4.46
+Delhi,DL,2019,Cyber Stalking & Bullying,947,609,161,946,5.18
+Delhi,DL,2019,Ransomware & Malware Attacks,717,414,108,572,3.86
+Delhi,DL,2019,Corporate Data Breach,435,251,103,362,1.32
+Delhi,DL,2019,Account Takeover,713,450,199,499,3.32
+Delhi,DL,2019,Investment & Cryptocurrency Fraud,577,366,161,539,3.61
+Delhi,DL,2019,E-Commerce & Shopping Scam,464,197,76,240,3.27
+Delhi,DL,2019,Job & Recruitment Fraud,325,158,61,258,2.3
+Delhi,DL,2020,UPI / Online Banking Fraud,2921,1873,786,3140,20.62
+Delhi,DL,2020,Phishing & Social Engineering,1944,911,435,1452,6.72
+Delhi,DL,2020,Identity Theft & Impersonation,1221,671,217,1170,4.85
+Delhi,DL,2020,Cyber Stalking & Bullying,970,458,200,759,2.96
+Delhi,DL,2020,Ransomware & Malware Attacks,870,504,234,784,3.34
+Delhi,DL,2020,Corporate Data Breach,513,277,102,485,3.44
+Delhi,DL,2020,Account Takeover,856,379,123,466,4.24
+Delhi,DL,2020,Investment & Cryptocurrency Fraud,875,413,105,675,5.47
+Delhi,DL,2020,E-Commerce & Shopping Scam,645,293,138,526,4.42
+Delhi,DL,2020,Job & Recruitment Fraud,383,168,43,229,3.24
+Delhi,DL,2021,UPI / Online Banking Fraud,3362,1474,533,2050,15.99
+Delhi,DL,2021,Phishing & Social Engineering,2252,1339,576,1591,9.38
+Delhi,DL,2021,Identity Theft & Impersonation,1518,863,271,1363,4.02
+Delhi,DL,2021,Cyber Stalking & Bullying,1148,554,240,936,9.36
+Delhi,DL,2021,Ransomware & Malware Attacks,1021,496,169,787,5.98
+Delhi,DL,2021,Corporate Data Breach,670,414,195,657,4.92
+Delhi,DL,2021,Account Takeover,1009,625,246,990,5.61
+Delhi,DL,2021,Investment & Cryptocurrency Fraud,1033,621,295,1014,3.51
+Delhi,DL,2021,E-Commerce & Shopping Scam,750,433,184,673,3.55
+Delhi,DL,2021,Job & Recruitment Fraud,390,214,54,246,2.73
+Delhi,DL,2022,UPI / Online Banking Fraud,4398,1974,910,2323,23.01
+Delhi,DL,2022,Phishing & Social Engineering,2344,1513,419,1907,14.39
+Delhi,DL,2022,Identity Theft & Impersonation,1732,1121,403,1689,8.03
+Delhi,DL,2022,Cyber Stalking & Bullying,1425,829,321,1249,9.67
+Delhi,DL,2022,Ransomware & Malware Attacks,956,487,176,636,4.0
+Delhi,DL,2022,Corporate Data Breach,795,438,157,504,4.57
+Delhi,DL,2022,Account Takeover,1221,642,193,779,5.51
+Delhi,DL,2022,Investment & Cryptocurrency Fraud,1139,511,135,769,6.75
+Delhi,DL,2022,E-Commerce & Shopping Scam,818,425,172,510,5.16
+Delhi,DL,2022,Job & Recruitment Fraud,404,191,87,297,3.18
+Delhi,DL,2023,UPI / Online Banking Fraud,4289,1858,706,2928,12.14
+Delhi,DL,2023,Phishing & Social Engineering,2606,1429,681,1681,12.05
+Delhi,DL,2023,Identity Theft & Impersonation,2153,1104,405,1605,9.76
+Delhi,DL,2023,Cyber Stalking & Bullying,1353,854,299,1173,7.67
+Delhi,DL,2023,Ransomware & Malware Attacks,1051,505,240,814,3.38
+Delhi,DL,2023,Corporate Data Breach,799,352,145,490,5.43
+Delhi,DL,2023,Account Takeover,1406,849,327,1495,7.71
+Delhi,DL,2023,Investment & Cryptocurrency Fraud,1287,586,212,996,10.1
+Delhi,DL,2023,E-Commerce & Shopping Scam,918,473,152,842,3.14
+Delhi,DL,2023,Job & Recruitment Fraud,513,219,85,248,3.12
+Delhi,DL,2024,UPI / Online Banking Fraud,5855,2804,724,3749,43.24
+Delhi,DL,2024,Phishing & Social Engineering,3341,1858,551,2837,11.28
+Delhi,DL,2024,Identity Theft & Impersonation,1909,955,293,1272,9.34
+Delhi,DL,2024,Cyber Stalking & Bullying,1721,1018,360,1360,8.55
+Delhi,DL,2024,Ransomware & Malware Attacks,1330,711,326,978,4.1
+Delhi,DL,2024,Corporate Data Breach,1011,539,204,898,6.88
+Delhi,DL,2024,Account Takeover,1556,840,255,1462,9.89
+Delhi,DL,2024,Investment & Cryptocurrency Fraud,1371,804,341,1411,4.95
+Delhi,DL,2024,E-Commerce & Shopping Scam,995,642,234,810,7.34
+Delhi,DL,2024,Job & Recruitment Fraud,604,299,107,366,1.78
+Delhi,DL,2025,UPI / Online Banking Fraud,6193,3619,1419,5660,51.93
+Delhi,DL,2025,Phishing & Social Engineering,3303,2050,718,3612,22.79
+Delhi,DL,2025,Identity Theft & Impersonation,2629,1655,536,2395,18.16
+Delhi,DL,2025,Cyber Stalking & Bullying,1928,1153,505,1872,15.59
+Delhi,DL,2025,Ransomware & Malware Attacks,1288,594,181,774,9.58
+Delhi,DL,2025,Corporate Data Breach,988,415,192,541,6.47
+Delhi,DL,2025,Account Takeover,1514,834,316,1471,10.61
+Delhi,DL,2025,Investment & Cryptocurrency Fraud,1315,600,269,910,6.98
+Delhi,DL,2025,E-Commerce & Shopping Scam,989,544,240,723,5.2
+Delhi,DL,2025,Job & Recruitment Fraud,541,281,130,384,3.36
+Tamil Nadu,TN,2019,UPI / Online Banking Fraud,2614,1270,575,1978,15.6
+Tamil Nadu,TN,2019,Phishing & Social Engineering,1430,718,202,1243,5.19
+Tamil Nadu,TN,2019,Identity Theft & Impersonation,1113,707,328,1258,9.01
+Tamil Nadu,TN,2019,Cyber Stalking & Bullying,712,443,166,701,4.44
+Tamil Nadu,TN,2019,Ransomware & Malware Attacks,574,311,143,534,3.49
+Tamil Nadu,TN,2019,Corporate Data Breach,439,229,97,373,1.47
+Tamil Nadu,TN,2019,Account Takeover,670,404,157,517,5.04
+Tamil Nadu,TN,2019,Investment & Cryptocurrency Fraud,544,257,113,424,2.57
+Tamil Nadu,TN,2019,E-Commerce & Shopping Scam,354,190,84,226,1.54
+Tamil Nadu,TN,2019,Job & Recruitment Fraud,263,165,54,213,0.78
+Tamil Nadu,TN,2020,UPI / Online Banking Fraud,2895,1470,401,2009,19.43
+Tamil Nadu,TN,2020,Phishing & Social Engineering,1445,731,281,917,6.14
+Tamil Nadu,TN,2020,Identity Theft & Impersonation,1245,523,176,769,7.88
+Tamil Nadu,TN,2020,Cyber Stalking & Bullying,851,410,116,512,4.18
+Tamil Nadu,TN,2020,Ransomware & Malware Attacks,710,431,175,677,4.24
+Tamil Nadu,TN,2020,Corporate Data Breach,419,187,87,324,3.21
+Tamil Nadu,TN,2020,Account Takeover,719,390,149,589,2.63
+Tamil Nadu,TN,2020,Investment & Cryptocurrency Fraud,608,356,90,546,2.55
+Tamil Nadu,TN,2020,E-Commerce & Shopping Scam,449,218,81,245,2.72
+Tamil Nadu,TN,2020,Job & Recruitment Fraud,259,125,47,188,1.74
+Tamil Nadu,TN,2021,UPI / Online Banking Fraud,3433,1919,682,2406,15.43
+Tamil Nadu,TN,2021,Phishing & Social Engineering,1945,934,303,1222,7.45
+Tamil Nadu,TN,2021,Identity Theft & Impersonation,1343,686,216,1135,7.56
+Tamil Nadu,TN,2021,Cyber Stalking & Bullying,1030,575,195,646,8.14
+Tamil Nadu,TN,2021,Ransomware & Malware Attacks,637,288,103,393,3.96
+Tamil Nadu,TN,2021,Corporate Data Breach,603,345,118,405,4.54
+Tamil Nadu,TN,2021,Account Takeover,763,343,107,487,5.33
+Tamil Nadu,TN,2021,Investment & Cryptocurrency Fraud,741,400,117,511,4.67
+Tamil Nadu,TN,2021,E-Commerce & Shopping Scam,549,346,101,609,2.71
+Tamil Nadu,TN,2021,Job & Recruitment Fraud,311,140,40,178,2.05
+Tamil Nadu,TN,2022,UPI / Online Banking Fraud,2914,1362,653,2384,18.05
+Tamil Nadu,TN,2022,Phishing & Social Engineering,1744,1102,500,1607,4.89
+Tamil Nadu,TN,2022,Identity Theft & Impersonation,1255,579,248,783,9.09
+Tamil Nadu,TN,2022,Cyber Stalking & Bullying,957,500,163,836,7.15
+Tamil Nadu,TN,2022,Ransomware & Malware Attacks,844,533,238,805,3.67
+Tamil Nadu,TN,2022,Corporate Data Breach,645,399,113,621,4.3
+Tamil Nadu,TN,2022,Account Takeover,935,597,179,829,3.83
+Tamil Nadu,TN,2022,Investment & Cryptocurrency Fraud,772,485,155,688,3.31
+Tamil Nadu,TN,2022,E-Commerce & Shopping Scam,598,339,132,386,3.02
+Tamil Nadu,TN,2022,Job & Recruitment Fraud,369,226,63,325,1.31
+Tamil Nadu,TN,2023,UPI / Online Banking Fraud,3880,2221,1013,2957,30.97
+Tamil Nadu,TN,2023,Phishing & Social Engineering,1877,951,308,1183,12.57
+Tamil Nadu,TN,2023,Identity Theft & Impersonation,1670,959,455,1340,9.17
+Tamil Nadu,TN,2023,Cyber Stalking & Bullying,1321,728,261,840,9.08
+Tamil Nadu,TN,2023,Ransomware & Malware Attacks,952,406,121,631,2.78
+Tamil Nadu,TN,2023,Corporate Data Breach,605,257,120,283,4.74
+Tamil Nadu,TN,2023,Account Takeover,899,540,207,919,3.01
+Tamil Nadu,TN,2023,Investment & Cryptocurrency Fraud,809,432,175,579,2.84
+Tamil Nadu,TN,2023,E-Commerce & Shopping Scam,702,328,129,468,5.64
+Tamil Nadu,TN,2023,Job & Recruitment Fraud,354,189,73,331,1.36
+Tamil Nadu,TN,2024,UPI / Online Banking Fraud,4094,2191,844,3063,32.0
+Tamil Nadu,TN,2024,Phishing & Social Engineering,2002,1163,526,2077,5.59
+Tamil Nadu,TN,2024,Identity Theft & Impersonation,1507,758,222,974,4.65
+Tamil Nadu,TN,2024,Cyber Stalking & Bullying,1232,785,299,1033,9.65
+Tamil Nadu,TN,2024,Ransomware & Malware Attacks,925,493,171,732,3.69
+Tamil Nadu,TN,2024,Corporate Data Breach,786,392,168,504,4.48
+Tamil Nadu,TN,2024,Account Takeover,1027,590,258,1013,7.6
+Tamil Nadu,TN,2024,Investment & Cryptocurrency Fraud,889,571,213,677,5.72
+Tamil Nadu,TN,2024,E-Commerce & Shopping Scam,628,289,115,414,1.91
+Tamil Nadu,TN,2024,Job & Recruitment Fraud,458,276,101,381,2.61
+Tamil Nadu,TN,2025,UPI / Online Banking Fraud,4565,2270,655,2956,11.89
+Tamil Nadu,TN,2025,Phishing & Social Engineering,2318,1368,404,2137,11.05
+Tamil Nadu,TN,2025,Identity Theft & Impersonation,2082,909,408,1400,13.59
+Tamil Nadu,TN,2025,Cyber Stalking & Bullying,1325,731,303,868,5.54
+Tamil Nadu,TN,2025,Ransomware & Malware Attacks,1043,493,142,704,8.54
+Tamil Nadu,TN,2025,Corporate Data Breach,769,439,131,535,5.24
+Tamil Nadu,TN,2025,Account Takeover,1069,637,163,707,3.78
+Tamil Nadu,TN,2025,Investment & Cryptocurrency Fraud,1165,714,254,955,5.21
+Tamil Nadu,TN,2025,E-Commerce & Shopping Scam,811,454,116,588,6.39
+Tamil Nadu,TN,2025,Job & Recruitment Fraud,428,273,101,314,1.69
+West Bengal,WB,2019,UPI / Online Banking Fraud,2087,1172,475,1839,9.96
+West Bengal,WB,2019,Phishing & Social Engineering,1031,534,233,803,4.06
+West Bengal,WB,2019,Identity Theft & Impersonation,868,424,196,533,5.43
+West Bengal,WB,2019,Cyber Stalking & Bullying,638,280,107,395,2.58
+West Bengal,WB,2019,Ransomware & Malware Attacks,440,221,84,277,1.58
+West Bengal,WB,2019,Corporate Data Breach,302,135,35,225,2.55
+West Bengal,WB,2019,Account Takeover,463,208,70,263,2.03
+West Bengal,WB,2019,Investment & Cryptocurrency Fraud,409,257,79,372,2.26
+West Bengal,WB,2019,E-Commerce & Shopping Scam,325,138,61,192,2.1
+West Bengal,WB,2019,Job & Recruitment Fraud,198,95,42,134,1.2
+West Bengal,WB,2020,UPI / Online Banking Fraud,2092,975,370,1592,9.73
+West Bengal,WB,2020,Phishing & Social Engineering,1095,473,149,701,7.41
+West Bengal,WB,2020,Identity Theft & Impersonation,953,429,175,734,5.16
+West Bengal,WB,2020,Cyber Stalking & Bullying,596,316,84,504,2.45
+West Bengal,WB,2020,Ransomware & Malware Attacks,558,361,172,536,1.43
+West Bengal,WB,2020,Corporate Data Breach,373,203,52,244,1.99
+West Bengal,WB,2020,Account Takeover,567,262,80,379,1.74
+West Bengal,WB,2020,Investment & Cryptocurrency Fraud,519,247,109,348,4.24
+West Bengal,WB,2020,E-Commerce & Shopping Scam,384,166,77,210,1.56
+West Bengal,WB,2020,Job & Recruitment Fraud,228,136,59,199,0.94
+West Bengal,WB,2021,UPI / Online Banking Fraud,2460,1314,381,2064,11.7
+West Bengal,WB,2021,Phishing & Social Engineering,1253,780,230,872,5.81
+West Bengal,WB,2021,Identity Theft & Impersonation,940,559,220,682,3.7
+West Bengal,WB,2021,Cyber Stalking & Bullying,652,283,105,443,2.87
+West Bengal,WB,2021,Ransomware & Malware Attacks,511,325,151,357,2.15
+West Bengal,WB,2021,Corporate Data Breach,349,181,81,315,0.97
+West Bengal,WB,2021,Account Takeover,738,425,183,617,5.6
+West Bengal,WB,2021,Investment & Cryptocurrency Fraud,567,309,129,487,4.81
+West Bengal,WB,2021,E-Commerce & Shopping Scam,420,220,69,342,1.29
+West Bengal,WB,2021,Job & Recruitment Fraud,250,111,46,158,1.32
+West Bengal,WB,2022,UPI / Online Banking Fraud,2447,1546,565,2136,13.7
+West Bengal,WB,2022,Phishing & Social Engineering,1604,920,377,1316,9.36
+West Bengal,WB,2022,Identity Theft & Impersonation,1047,669,174,947,6.22
+West Bengal,WB,2022,Cyber Stalking & Bullying,924,545,185,606,3.25
+West Bengal,WB,2022,Ransomware & Malware Attacks,565,339,128,446,3.35
+West Bengal,WB,2022,Corporate Data Breach,509,236,107,342,2.13
+West Bengal,WB,2022,Account Takeover,788,460,115,519,4.66
+West Bengal,WB,2022,Investment & Cryptocurrency Fraud,559,318,113,479,4.18
+West Bengal,WB,2022,E-Commerce & Shopping Scam,421,233,108,418,2.48
+West Bengal,WB,2022,Job & Recruitment Fraud,248,158,71,251,1.14
+West Bengal,WB,2023,UPI / Online Banking Fraud,2824,1473,394,2638,23.36
+West Bengal,WB,2023,Phishing & Social Engineering,1703,800,264,1119,6.19
+West Bengal,WB,2023,Identity Theft & Impersonation,1328,789,222,1147,10.05
+West Bengal,WB,2023,Cyber Stalking & Bullying,838,452,179,559,5.41
+West Bengal,WB,2023,Ransomware & Malware Attacks,781,342,121,483,5.88
+West Bengal,WB,2023,Corporate Data Breach,558,274,82,451,1.54
+West Bengal,WB,2023,Account Takeover,917,555,140,830,5.17
+West Bengal,WB,2023,Investment & Cryptocurrency Fraud,659,421,147,525,2.06
+West Bengal,WB,2023,E-Commerce & Shopping Scam,452,208,57,264,2.81
+West Bengal,WB,2023,Job & Recruitment Fraud,268,161,55,222,0.73
+West Bengal,WB,2024,UPI / Online Banking Fraud,3087,1723,517,1922,22.73
+West Bengal,WB,2024,Phishing & Social Engineering,1933,1009,288,1186,8.22
+West Bengal,WB,2024,Identity Theft & Impersonation,1209,774,322,961,3.05
+West Bengal,WB,2024,Cyber Stalking & Bullying,847,393,128,618,6.0
+West Bengal,WB,2024,Ransomware & Malware Attacks,819,423,187,668,5.05
+West Bengal,WB,2024,Corporate Data Breach,598,281,100,425,1.98
+West Bengal,WB,2024,Account Takeover,1000,578,152,974,5.46
+West Bengal,WB,2024,Investment & Cryptocurrency Fraud,849,388,120,647,4.62
+West Bengal,WB,2024,E-Commerce & Shopping Scam,537,239,72,309,4.46
+West Bengal,WB,2024,Job & Recruitment Fraud,324,183,46,231,2.67
+West Bengal,WB,2025,UPI / Online Banking Fraud,3405,1870,698,2753,25.75
+West Bengal,WB,2025,Phishing & Social Engineering,2192,941,451,1459,8.67
+West Bengal,WB,2025,Identity Theft & Impersonation,1620,803,340,1216,11.31
+West Bengal,WB,2025,Cyber Stalking & Bullying,1201,701,249,836,9.26
+West Bengal,WB,2025,Ransomware & Malware Attacks,809,467,212,555,4.08
+West Bengal,WB,2025,Corporate Data Breach,698,351,119,622,2.45
+West Bengal,WB,2025,Account Takeover,859,446,146,502,4.43
+West Bengal,WB,2025,Investment & Cryptocurrency Fraud,965,570,168,824,3.57
+West Bengal,WB,2025,E-Commerce & Shopping Scam,575,261,114,448,2.51
+West Bengal,WB,2025,Job & Recruitment Fraud,385,173,82,264,2.31
+Gujarat,GJ,2019,UPI / Online Banking Fraud,2075,1057,273,1355,9.09
+Gujarat,GJ,2019,Phishing & Social Engineering,1095,567,230,892,8.88
+Gujarat,GJ,2019,Identity Theft & Impersonation,684,357,92,467,4.59
+Gujarat,GJ,2019,Cyber Stalking & Bullying,560,301,123,349,4.19
+Gujarat,GJ,2019,Ransomware & Malware Attacks,435,245,63,336,3.11
+Gujarat,GJ,2019,Corporate Data Breach,288,169,52,252,1.19
+Gujarat,GJ,2019,Account Takeover,532,332,122,520,1.92
+Gujarat,GJ,2019,Investment & Cryptocurrency Fraud,424,222,90,291,3.56
+Gujarat,GJ,2019,E-Commerce & Shopping Scam,309,189,47,216,0.91
+Gujarat,GJ,2019,Job & Recruitment Fraud,192,118,48,208,1.5
+Gujarat,GJ,2020,UPI / Online Banking Fraud,2271,1180,476,1951,8.54
+Gujarat,GJ,2020,Phishing & Social Engineering,1255,724,317,1045,3.93
+Gujarat,GJ,2020,Identity Theft & Impersonation,920,565,223,856,6.15
+Gujarat,GJ,2020,Cyber Stalking & Bullying,658,370,161,480,3.77
+Gujarat,GJ,2020,Ransomware & Malware Attacks,542,290,100,426,2.48
+Gujarat,GJ,2020,Corporate Data Breach,413,230,61,346,1.63
+Gujarat,GJ,2020,Account Takeover,692,327,144,440,3.75
+Gujarat,GJ,2020,Investment & Cryptocurrency Fraud,507,271,121,480,2.95
+Gujarat,GJ,2020,E-Commerce & Shopping Scam,456,245,75,354,3.37
+Gujarat,GJ,2020,Job & Recruitment Fraud,259,159,74,248,1.77
+Gujarat,GJ,2021,UPI / Online Banking Fraud,2636,1531,684,2733,14.98
+Gujarat,GJ,2021,Phishing & Social Engineering,1617,850,376,967,4.15
+Gujarat,GJ,2021,Identity Theft & Impersonation,1179,659,189,1075,7.95
+Gujarat,GJ,2021,Cyber Stalking & Bullying,814,512,238,747,4.11
+Gujarat,GJ,2021,Ransomware & Malware Attacks,578,251,95,310,3.01
+Gujarat,GJ,2021,Corporate Data Breach,411,199,72,241,1.95
+Gujarat,GJ,2021,Account Takeover,688,415,137,689,2.3
+Gujarat,GJ,2021,Investment & Cryptocurrency Fraud,571,257,120,394,2.71
+Gujarat,GJ,2021,E-Commerce & Shopping Scam,449,287,136,505,1.62
+Gujarat,GJ,2021,Job & Recruitment Fraud,236,142,59,198,1.17
+Gujarat,GJ,2022,UPI / Online Banking Fraud,3267,1419,487,2282,15.6
+Gujarat,GJ,2022,Phishing & Social Engineering,1884,980,431,1175,11.41
+Gujarat,GJ,2022,Identity Theft & Impersonation,1256,679,303,764,7.83
+Gujarat,GJ,2022,Cyber Stalking & Bullying,876,404,128,503,5.94
+Gujarat,GJ,2022,Ransomware & Malware Attacks,772,467,123,545,3.78
+Gujarat,GJ,2022,Corporate Data Breach,508,283,93,405,1.36
+Gujarat,GJ,2022,Account Takeover,794,474,219,729,2.66
+Gujarat,GJ,2022,Investment & Cryptocurrency Fraud,666,425,127,587,5.28
+Gujarat,GJ,2022,E-Commerce & Shopping Scam,565,352,151,390,2.69
+Gujarat,GJ,2022,Job & Recruitment Fraud,329,154,69,263,2.36
+Gujarat,GJ,2023,UPI / Online Banking Fraud,2701,1440,418,2384,10.15
+Gujarat,GJ,2023,Phishing & Social Engineering,1997,906,230,1550,7.72
+Gujarat,GJ,2023,Identity Theft & Impersonation,1387,707,296,1042,6.38
+Gujarat,GJ,2023,Cyber Stalking & Bullying,948,484,141,661,3.52
+Gujarat,GJ,2023,Ransomware & Malware Attacks,760,493,221,802,2.8
+Gujarat,GJ,2023,Corporate Data Breach,622,390,108,580,3.32
+Gujarat,GJ,2023,Account Takeover,809,501,155,599,5.61
+Gujarat,GJ,2023,Investment & Cryptocurrency Fraud,689,369,96,430,4.62
+Gujarat,GJ,2023,E-Commerce & Shopping Scam,481,288,89,373,2.29
+Gujarat,GJ,2023,Job & Recruitment Fraud,352,172,46,288,1.08
+Gujarat,GJ,2024,UPI / Online Banking Fraud,3758,2168,939,2642,24.2
+Gujarat,GJ,2024,Phishing & Social Engineering,1938,1074,310,1464,10.04
+Gujarat,GJ,2024,Identity Theft & Impersonation,1431,816,289,965,6.38
+Gujarat,GJ,2024,Cyber Stalking & Bullying,1283,656,252,894,4.89
+Gujarat,GJ,2024,Ransomware & Malware Attacks,1006,624,214,778,7.09
+Gujarat,GJ,2024,Corporate Data Breach,664,340,122,462,2.06
+Gujarat,GJ,2024,Account Takeover,1161,683,183,862,6.95
+Gujarat,GJ,2024,Investment & Cryptocurrency Fraud,927,441,132,660,4.12
+Gujarat,GJ,2024,E-Commerce & Shopping Scam,594,340,136,542,2.34
+Gujarat,GJ,2024,Job & Recruitment Fraud,386,244,74,412,2.85
+Gujarat,GJ,2025,UPI / Online Banking Fraud,3871,1772,565,2021,25.8
+Gujarat,GJ,2025,Phishing & Social Engineering,2229,1106,468,1604,8.72
+Gujarat,GJ,2025,Identity Theft & Impersonation,1705,1066,455,1348,10.62
+Gujarat,GJ,2025,Cyber Stalking & Bullying,1256,814,227,1202,8.34
+Gujarat,GJ,2025,Ransomware & Malware Attacks,945,399,149,483,3.26
+Gujarat,GJ,2025,Corporate Data Breach,765,349,107,411,2.12
+Gujarat,GJ,2025,Account Takeover,1069,623,208,895,2.68
+Gujarat,GJ,2025,Investment & Cryptocurrency Fraud,943,420,121,583,5.71
+Gujarat,GJ,2025,E-Commerce & Shopping Scam,686,349,112,460,2.15
+Gujarat,GJ,2025,Job & Recruitment Fraud,410,237,85,402,2.21
+Rajasthan,RJ,2019,UPI / Online Banking Fraud,1602,732,348,949,10.55
+Rajasthan,RJ,2019,Phishing & Social Engineering,942,506,152,593,3.96
+Rajasthan,RJ,2019,Identity Theft & Impersonation,606,370,106,510,1.93
+Rajasthan,RJ,2019,Cyber Stalking & Bullying,560,340,128,397,4.64
+Rajasthan,RJ,2019,Ransomware & Malware Attacks,416,179,48,293,2.11
+Rajasthan,RJ,2019,Corporate Data Breach,316,198,73,283,2.27
+Rajasthan,RJ,2019,Account Takeover,442,256,117,347,1.5
+Rajasthan,RJ,2019,Investment & Cryptocurrency Fraud,350,147,42,184,1.46
+Rajasthan,RJ,2019,E-Commerce & Shopping Scam,251,141,50,210,0.63
+Rajasthan,RJ,2019,Job & Recruitment Fraud,162,102,29,144,0.6
+Rajasthan,RJ,2020,UPI / Online Banking Fraud,1763,841,251,1304,12.66
+Rajasthan,RJ,2020,Phishing & Social Engineering,1021,640,196,1151,3.91
+Rajasthan,RJ,2020,Identity Theft & Impersonation,884,432,148,529,7.13
+Rajasthan,RJ,2020,Cyber Stalking & Bullying,676,389,114,688,4.26
+Rajasthan,RJ,2020,Ransomware & Malware Attacks,475,275,99,350,2.11
+Rajasthan,RJ,2020,Corporate Data Breach,299,180,62,201,1.77
+Rajasthan,RJ,2020,Account Takeover,472,285,85,439,1.4
+Rajasthan,RJ,2020,Investment & Cryptocurrency Fraud,499,318,87,435,2.14
+Rajasthan,RJ,2020,E-Commerce & Shopping Scam,335,180,50,247,1.51
+Rajasthan,RJ,2020,Job & Recruitment Fraud,222,103,33,135,0.88
+Rajasthan,RJ,2021,UPI / Online Banking Fraud,2359,1476,466,2383,13.84
+Rajasthan,RJ,2021,Phishing & Social Engineering,1232,629,278,1093,4.27
+Rajasthan,RJ,2021,Identity Theft & Impersonation,876,521,221,907,6.49
+Rajasthan,RJ,2021,Cyber Stalking & Bullying,773,473,190,743,3.93
+Rajasthan,RJ,2021,Ransomware & Malware Attacks,621,330,116,487,3.33
+Rajasthan,RJ,2021,Corporate Data Breach,355,194,82,286,2.54
+Rajasthan,RJ,2021,Account Takeover,561,279,77,365,3.45
+Rajasthan,RJ,2021,Investment & Cryptocurrency Fraud,525,229,85,294,3.13
+Rajasthan,RJ,2021,E-Commerce & Shopping Scam,357,171,60,230,1.93
+Rajasthan,RJ,2021,Job & Recruitment Fraud,221,136,47,234,0.64
+Rajasthan,RJ,2022,UPI / Online Banking Fraud,2437,1350,622,2028,6.75
+Rajasthan,RJ,2022,Phishing & Social Engineering,1641,928,395,1479,12.71
+Rajasthan,RJ,2022,Identity Theft & Impersonation,1070,650,174,744,5.43
+Rajasthan,RJ,2022,Cyber Stalking & Bullying,796,504,139,655,3.17
+Rajasthan,RJ,2022,Ransomware & Malware Attacks,672,331,115,560,3.42
+Rajasthan,RJ,2022,Corporate Data Breach,397,205,62,299,2.79
+Rajasthan,RJ,2022,Account Takeover,784,388,123,431,5.06
+Rajasthan,RJ,2022,Investment & Cryptocurrency Fraud,690,417,169,714,4.77
+Rajasthan,RJ,2022,E-Commerce & Shopping Scam,496,278,112,323,3.64
+Rajasthan,RJ,2022,Job & Recruitment Fraud,249,154,54,234,0.86
+Rajasthan,RJ,2023,UPI / Online Banking Fraud,3090,1624,589,2884,11.79
+Rajasthan,RJ,2023,Phishing & Social Engineering,1538,877,361,1021,6.13
+Rajasthan,RJ,2023,Identity Theft & Impersonation,1301,685,322,993,3.96
+Rajasthan,RJ,2023,Cyber Stalking & Bullying,906,418,187,616,2.48
+Rajasthan,RJ,2023,Ransomware & Malware Attacks,606,331,122,549,4.45
+Rajasthan,RJ,2023,Corporate Data Breach,543,317,83,538,1.81
+Rajasthan,RJ,2023,Account Takeover,829,400,154,447,5.29
+Rajasthan,RJ,2023,Investment & Cryptocurrency Fraud,604,259,81,352,2.92
+Rajasthan,RJ,2023,E-Commerce & Shopping Scam,520,301,79,440,2.27
+Rajasthan,RJ,2023,Job & Recruitment Fraud,336,170,81,265,0.94
+Rajasthan,RJ,2024,UPI / Online Banking Fraud,3283,1963,776,2475,16.02
+Rajasthan,RJ,2024,Phishing & Social Engineering,1584,822,361,1100,7.55
+Rajasthan,RJ,2024,Identity Theft & Impersonation,1286,662,222,776,4.15
+Rajasthan,RJ,2024,Cyber Stalking & Bullying,916,556,147,974,7.05
+Rajasthan,RJ,2024,Ransomware & Malware Attacks,726,406,147,589,5.06
+Rajasthan,RJ,2024,Corporate Data Breach,592,331,97,466,2.88
+Rajasthan,RJ,2024,Account Takeover,832,499,163,628,4.9
+Rajasthan,RJ,2024,Investment & Cryptocurrency Fraud,824,438,139,776,2.12
+Rajasthan,RJ,2024,E-Commerce & Shopping Scam,443,210,62,333,2.92
+Rajasthan,RJ,2024,Job & Recruitment Fraud,287,157,41,264,1.86
+Rajasthan,RJ,2025,UPI / Online Banking Fraud,3059,1347,591,1827,13.1
+Rajasthan,RJ,2025,Phishing & Social Engineering,1768,1002,335,1382,14.71
+Rajasthan,RJ,2025,Identity Theft & Impersonation,1197,669,246,1103,10.06
+Rajasthan,RJ,2025,Cyber Stalking & Bullying,1035,474,154,770,2.78
+Rajasthan,RJ,2025,Ransomware & Malware Attacks,734,465,135,793,2.88
+Rajasthan,RJ,2025,Corporate Data Breach,567,261,122,299,3.58
+Rajasthan,RJ,2025,Account Takeover,1016,466,150,730,5.69
+Rajasthan,RJ,2025,Investment & Cryptocurrency Fraud,767,496,227,551,5.49
+Rajasthan,RJ,2025,E-Commerce & Shopping Scam,628,341,116,415,5.32
+Rajasthan,RJ,2025,Job & Recruitment Fraud,302,195,72,217,2.48
+Kerala,KL,2019,UPI / Online Banking Fraud,1232,711,276,1119,8.45
+Kerala,KL,2019,Phishing & Social Engineering,746,368,170,569,4.83
+Kerala,KL,2019,Identity Theft & Impersonation,622,379,153,504,3.1
+Kerala,KL,2019,Cyber Stalking & Bullying,410,193,82,289,1.41
+Kerala,KL,2019,Ransomware & Malware Attacks,383,230,109,358,2.86
+Kerala,KL,2019,Corporate Data Breach,248,133,53,213,0.72
+Kerala,KL,2019,Account Takeover,438,218,103,292,2.33
+Kerala,KL,2019,Investment & Cryptocurrency Fraud,314,203,83,263,1.91
+Kerala,KL,2019,E-Commerce & Shopping Scam,241,134,60,155,0.95
+Kerala,KL,2019,Job & Recruitment Fraud,142,62,28,97,0.93
+Kerala,KL,2020,UPI / Online Banking Fraud,1499,868,370,1235,11.06
+Kerala,KL,2020,Phishing & Social Engineering,821,454,196,713,4.16
+Kerala,KL,2020,Identity Theft & Impersonation,567,366,106,454,3.3
+Kerala,KL,2020,Cyber Stalking & Bullying,437,197,80,338,2.75
+Kerala,KL,2020,Ransomware & Malware Attacks,415,227,58,401,2.98
+Kerala,KL,2020,Corporate Data Breach,278,146,57,220,0.86
+Kerala,KL,2020,Account Takeover,383,166,64,210,3.12
+Kerala,KL,2020,Investment & Cryptocurrency Fraud,341,193,80,288,1.28
+Kerala,KL,2020,E-Commerce & Shopping Scam,299,181,51,288,1.45
+Kerala,KL,2020,Job & Recruitment Fraud,166,88,28,115,0.81
+Kerala,KL,2021,UPI / Online Banking Fraud,1567,932,425,1259,10.18
+Kerala,KL,2021,Phishing & Social Engineering,885,513,161,761,5.92
+Kerala,KL,2021,Identity Theft & Impersonation,675,385,181,682,3.47
+Kerala,KL,2021,Cyber Stalking & Bullying,493,275,122,340,2.78
+Kerala,KL,2021,Ransomware & Malware Attacks,401,217,61,367,2.55
+Kerala,KL,2021,Corporate Data Breach,344,145,46,190,2.87
+Kerala,KL,2021,Account Takeover,574,251,82,392,4.2
+Kerala,KL,2021,Investment & Cryptocurrency Fraud,485,267,126,406,2.05
+Kerala,KL,2021,E-Commerce & Shopping Scam,337,195,71,286,1.25
+Kerala,KL,2021,Job & Recruitment Fraud,201,128,48,203,1.46
+Kerala,KL,2022,UPI / Online Banking Fraud,1768,1046,352,1327,10.48
+Kerala,KL,2022,Phishing & Social Engineering,1150,722,233,921,4.4
+Kerala,KL,2022,Identity Theft & Impersonation,738,440,130,606,4.89
+Kerala,KL,2022,Cyber Stalking & Bullying,644,275,82,371,3.17
+Kerala,KL,2022,Ransomware & Malware Attacks,535,344,120,555,3.32
+Kerala,KL,2022,Corporate Data Breach,307,134,37,148,2.07
+Kerala,KL,2022,Account Takeover,606,288,99,384,3.33
+Kerala,KL,2022,Investment & Cryptocurrency Fraud,473,199,69,293,2.46
+Kerala,KL,2022,E-Commerce & Shopping Scam,325,140,58,187,1.4
+Kerala,KL,2022,Job & Recruitment Fraud,177,74,28,88,1.06
+Kerala,KL,2023,UPI / Online Banking Fraud,2078,957,295,1082,15.62
+Kerala,KL,2023,Phishing & Social Engineering,1370,810,324,1187,9.06
+Kerala,KL,2023,Identity Theft & Impersonation,983,557,187,771,3.39
+Kerala,KL,2023,Cyber Stalking & Bullying,776,331,102,472,2.47
+Kerala,KL,2023,Ransomware & Malware Attacks,574,305,145,423,2.81
+Kerala,KL,2023,Corporate Data Breach,390,232,73,272,1.63
+Kerala,KL,2023,Account Takeover,699,359,166,606,2.69
+Kerala,KL,2023,Investment & Cryptocurrency Fraud,522,301,80,369,2.86
+Kerala,KL,2023,E-Commerce & Shopping Scam,444,257,79,384,2.62
+Kerala,KL,2023,Job & Recruitment Fraud,251,143,56,206,1.69
+Kerala,KL,2024,UPI / Online Banking Fraud,2739,1210,341,1428,23.01
+Kerala,KL,2024,Phishing & Social Engineering,1308,553,178,890,9.55
+Kerala,KL,2024,Identity Theft & Impersonation,1115,585,205,706,4.24
+Kerala,KL,2024,Cyber Stalking & Bullying,837,352,118,436,4.53
+Kerala,KL,2024,Ransomware & Malware Attacks,711,409,176,518,2.35
+Kerala,KL,2024,Corporate Data Breach,459,291,117,460,3.31
+Kerala,KL,2024,Account Takeover,689,358,129,601,5.45
+Kerala,KL,2024,Investment & Cryptocurrency Fraud,629,357,99,568,5.09
+Kerala,KL,2024,E-Commerce & Shopping Scam,416,190,48,323,2.37
+Kerala,KL,2024,Job & Recruitment Fraud,299,173,62,223,1.0
+Kerala,KL,2025,UPI / Online Banking Fraud,2869,1830,569,2425,9.28
+Kerala,KL,2025,Phishing & Social Engineering,1512,845,388,1268,4.21
+Kerala,KL,2025,Identity Theft & Impersonation,998,553,168,854,7.73
+Kerala,KL,2025,Cyber Stalking & Bullying,748,378,97,567,3.96
+Kerala,KL,2025,Ransomware & Malware Attacks,659,366,95,501,3.74
+Kerala,KL,2025,Corporate Data Breach,507,324,93,578,2.54
+Kerala,KL,2025,Account Takeover,695,336,108,518,3.71
+Kerala,KL,2025,Investment & Cryptocurrency Fraud,622,372,152,579,1.83
+Kerala,KL,2025,E-Commerce & Shopping Scam,418,229,108,282,1.16
+Kerala,KL,2025,Job & Recruitment Fraud,261,138,59,183,0.77
+Andhra Pradesh,AP,2019,UPI / Online Banking Fraud,1339,578,156,925,5.05
+Andhra Pradesh,AP,2019,Phishing & Social Engineering,914,535,163,756,3.82
+Andhra Pradesh,AP,2019,Identity Theft & Impersonation,597,291,98,324,3.74
+Andhra Pradesh,AP,2019,Cyber Stalking & Bullying,511,215,82,265,1.69
+Andhra Pradesh,AP,2019,Ransomware & Malware Attacks,365,165,45,212,2.28
+Andhra Pradesh,AP,2019,Corporate Data Breach,266,131,61,157,0.84
+Andhra Pradesh,AP,2019,Account Takeover,384,233,106,361,1.62
+Andhra Pradesh,AP,2019,Investment & Cryptocurrency Fraud,425,215,66,245,2.41
+Andhra Pradesh,AP,2019,E-Commerce & Shopping Scam,241,151,63,251,1.33
+Andhra Pradesh,AP,2019,Job & Recruitment Fraud,162,69,30,117,0.51
+Andhra Pradesh,AP,2020,UPI / Online Banking Fraud,1464,657,244,767,7.8
+Andhra Pradesh,AP,2020,Phishing & Social Engineering,986,478,152,825,4.69
+Andhra Pradesh,AP,2020,Identity Theft & Impersonation,770,496,141,805,4.37
+Andhra Pradesh,AP,2020,Cyber Stalking & Bullying,546,234,79,326,3.59
+Andhra Pradesh,AP,2020,Ransomware & Malware Attacks,444,194,67,287,3.54
+Andhra Pradesh,AP,2020,Corporate Data Breach,291,138,54,167,0.85
+Andhra Pradesh,AP,2020,Account Takeover,471,276,82,402,3.49
+Andhra Pradesh,AP,2020,Investment & Cryptocurrency Fraud,401,193,90,216,3.02
+Andhra Pradesh,AP,2020,E-Commerce & Shopping Scam,273,144,54,249,0.8
+Andhra Pradesh,AP,2020,Job & Recruitment Fraud,149,81,35,107,0.61
+Andhra Pradesh,AP,2021,UPI / Online Banking Fraud,2072,1167,330,1470,15.51
+Andhra Pradesh,AP,2021,Phishing & Social Engineering,1094,648,299,1043,8.4
+Andhra Pradesh,AP,2021,Identity Theft & Impersonation,784,334,159,405,6.41
+Andhra Pradesh,AP,2021,Cyber Stalking & Bullying,571,360,165,583,4.22
+Andhra Pradesh,AP,2021,Ransomware & Malware Attacks,494,246,117,364,2.72
+Andhra Pradesh,AP,2021,Corporate Data Breach,297,184,47,209,2.39
+Andhra Pradesh,AP,2021,Account Takeover,580,340,121,438,4.61
+Andhra Pradesh,AP,2021,Investment & Cryptocurrency Fraud,472,290,134,421,2.93
+Andhra Pradesh,AP,2021,E-Commerce & Shopping Scam,277,132,54,180,0.76
+Andhra Pradesh,AP,2021,Job & Recruitment Fraud,218,103,32,155,1.01
+Andhra Pradesh,AP,2022,UPI / Online Banking Fraud,2378,1246,448,1796,16.98
+Andhra Pradesh,AP,2022,Phishing & Social Engineering,1356,594,263,865,3.42
+Andhra Pradesh,AP,2022,Identity Theft & Impersonation,1004,643,281,766,5.14
+Andhra Pradesh,AP,2022,Cyber Stalking & Bullying,757,331,119,457,3.77
+Andhra Pradesh,AP,2022,Ransomware & Malware Attacks,583,356,144,508,4.62
+Andhra Pradesh,AP,2022,Corporate Data Breach,394,238,71,406,2.98
+Andhra Pradesh,AP,2022,Account Takeover,671,421,128,702,3.14
+Andhra Pradesh,AP,2022,Investment & Cryptocurrency Fraud,484,219,93,285,3.13
+Andhra Pradesh,AP,2022,E-Commerce & Shopping Scam,436,264,111,426,3.13
+Andhra Pradesh,AP,2022,Job & Recruitment Fraud,244,103,33,154,1.34
+Andhra Pradesh,AP,2023,UPI / Online Banking Fraud,2213,1223,557,1612,16.73
+Andhra Pradesh,AP,2023,Phishing & Social Engineering,1335,569,144,831,4.4
+Andhra Pradesh,AP,2023,Identity Theft & Impersonation,953,452,194,727,5.48
+Andhra Pradesh,AP,2023,Cyber Stalking & Bullying,704,296,127,366,3.61
+Andhra Pradesh,AP,2023,Ransomware & Malware Attacks,621,291,120,337,3.33
+Andhra Pradesh,AP,2023,Corporate Data Breach,412,220,93,276,2.12
+Andhra Pradesh,AP,2023,Account Takeover,747,454,191,575,6.11
+Andhra Pradesh,AP,2023,Investment & Cryptocurrency Fraud,516,331,89,506,3.63
+Andhra Pradesh,AP,2023,E-Commerce & Shopping Scam,356,183,57,247,1.06
+Andhra Pradesh,AP,2023,Job & Recruitment Fraud,232,122,55,210,1.54
+Andhra Pradesh,AP,2024,UPI / Online Banking Fraud,2830,1566,569,2395,13.45
+Andhra Pradesh,AP,2024,Phishing & Social Engineering,1325,561,190,769,8.75
+Andhra Pradesh,AP,2024,Identity Theft & Impersonation,1257,681,313,834,3.34
+Andhra Pradesh,AP,2024,Cyber Stalking & Bullying,935,515,213,601,5.38
+Andhra Pradesh,AP,2024,Ransomware & Malware Attacks,657,412,130,663,1.7
+Andhra Pradesh,AP,2024,Corporate Data Breach,482,248,89,348,3.38
+Andhra Pradesh,AP,2024,Account Takeover,778,335,158,491,5.22
+Andhra Pradesh,AP,2024,Investment & Cryptocurrency Fraud,727,470,178,633,3.27
+Andhra Pradesh,AP,2024,E-Commerce & Shopping Scam,479,273,84,302,2.16
+Andhra Pradesh,AP,2024,Job & Recruitment Fraud,272,165,56,252,1.36
+Andhra Pradesh,AP,2025,UPI / Online Banking Fraud,2776,1691,759,2114,9.73
+Andhra Pradesh,AP,2025,Phishing & Social Engineering,1430,668,209,860,5.0
+Andhra Pradesh,AP,2025,Identity Theft & Impersonation,1193,504,211,683,5.02
+Andhra Pradesh,AP,2025,Cyber Stalking & Bullying,970,528,237,631,7.32
+Andhra Pradesh,AP,2025,Ransomware & Malware Attacks,726,429,158,741,4.82
+Andhra Pradesh,AP,2025,Corporate Data Breach,561,262,103,420,3.04
+Andhra Pradesh,AP,2025,Account Takeover,753,462,217,773,6.32
+Andhra Pradesh,AP,2025,Investment & Cryptocurrency Fraud,733,343,110,456,2.45
+Andhra Pradesh,AP,2025,E-Commerce & Shopping Scam,447,227,104,307,1.94
+Andhra Pradesh,AP,2025,Job & Recruitment Fraud,295,171,54,239,0.89
+Haryana,HR,2019,UPI / Online Banking Fraud,1658,1049,288,1809,9.74
+Haryana,HR,2019,Phishing & Social Engineering,1107,706,259,1087,6.52
+Haryana,HR,2019,Identity Theft & Impersonation,825,416,179,518,4.92
+Haryana,HR,2019,Cyber Stalking & Bullying,508,284,81,454,1.96
+Haryana,HR,2019,Ransomware & Malware Attacks,478,285,76,345,1.88
+Haryana,HR,2019,Corporate Data Breach,328,197,72,248,2.37
+Haryana,HR,2019,Account Takeover,512,266,113,295,3.65
+Haryana,HR,2019,Investment & Cryptocurrency Fraud,433,203,95,269,3.07
+Haryana,HR,2019,E-Commerce & Shopping Scam,338,153,51,273,1.88
+Haryana,HR,2019,Job & Recruitment Fraud,169,86,36,99,1.05
+Haryana,HR,2020,UPI / Online Banking Fraud,2337,1200,458,1366,14.45
+Haryana,HR,2020,Phishing & Social Engineering,1133,671,262,1111,7.05
+Haryana,HR,2020,Identity Theft & Impersonation,994,622,185,880,5.05
+Haryana,HR,2020,Cyber Stalking & Bullying,626,354,148,621,3.98
+Haryana,HR,2020,Ransomware & Malware Attacks,567,292,75,342,2.44
+Haryana,HR,2020,Corporate Data Breach,414,187,58,306,3.23
+Haryana,HR,2020,Account Takeover,510,315,123,423,3.08
+Haryana,HR,2020,Investment & Cryptocurrency Fraud,469,281,71,346,3.69
+Haryana,HR,2020,E-Commerce & Shopping Scam,328,177,54,201,2.13
+Haryana,HR,2020,Job & Recruitment Fraud,237,101,39,146,1.07
+Haryana,HR,2021,UPI / Online Banking Fraud,2069,1185,345,1932,12.74
+Haryana,HR,2021,Phishing & Social Engineering,1221,763,306,1329,7.31
+Haryana,HR,2021,Identity Theft & Impersonation,907,503,160,676,2.69
+Haryana,HR,2021,Cyber Stalking & Bullying,653,352,124,526,3.01
+Haryana,HR,2021,Ransomware & Malware Attacks,588,260,78,389,2.07
+Haryana,HR,2021,Corporate Data Breach,407,262,97,448,1.25
+Haryana,HR,2021,Account Takeover,629,333,134,387,3.42
+Haryana,HR,2021,Investment & Cryptocurrency Fraud,583,283,94,366,4.77
+Haryana,HR,2021,E-Commerce & Shopping Scam,439,268,69,375,2.32
+Haryana,HR,2021,Job & Recruitment Fraud,229,142,60,170,1.12
+Haryana,HR,2022,UPI / Online Banking Fraud,2527,1161,313,1471,10.87
+Haryana,HR,2022,Phishing & Social Engineering,1702,939,381,1043,9.83
+Haryana,HR,2022,Identity Theft & Impersonation,1192,546,199,872,9.5
+Haryana,HR,2022,Cyber Stalking & Bullying,776,484,126,720,6.03
+Haryana,HR,2022,Ransomware & Malware Attacks,610,390,117,548,3.35
+Haryana,HR,2022,Corporate Data Breach,435,270,75,331,3.14
+Haryana,HR,2022,Account Takeover,672,368,172,630,4.92
+Haryana,HR,2022,Investment & Cryptocurrency Fraud,721,399,157,714,2.95
+Haryana,HR,2022,E-Commerce & Shopping Scam,442,261,122,369,1.56
+Haryana,HR,2022,Job & Recruitment Fraud,300,177,70,317,1.36
+Haryana,HR,2023,UPI / Online Banking Fraud,2819,1320,376,1473,16.62
+Haryana,HR,2023,Phishing & Social Engineering,1872,788,345,896,6.37
+Haryana,HR,2023,Identity Theft & Impersonation,1210,681,279,787,6.54
+Haryana,HR,2023,Cyber Stalking & Bullying,844,388,170,506,4.58
+Haryana,HR,2023,Ransomware & Malware Attacks,707,331,122,476,4.09
+Haryana,HR,2023,Corporate Data Breach,530,254,74,422,3.81
+Haryana,HR,2023,Account Takeover,914,578,242,688,4.25
+Haryana,HR,2023,Investment & Cryptocurrency Fraud,667,280,108,385,1.97
+Haryana,HR,2023,E-Commerce & Shopping Scam,592,270,83,313,4.95
+Haryana,HR,2023,Job & Recruitment Fraud,356,168,48,199,2.17
+Haryana,HR,2024,UPI / Online Banking Fraud,3330,1636,768,2813,25.32
+Haryana,HR,2024,Phishing & Social Engineering,1737,792,292,1052,13.32
+Haryana,HR,2024,Identity Theft & Impersonation,1540,882,345,1061,12.46
+Haryana,HR,2024,Cyber Stalking & Bullying,1119,593,148,950,8.51
+Haryana,HR,2024,Ransomware & Malware Attacks,808,513,193,634,2.31
+Haryana,HR,2024,Corporate Data Breach,555,283,78,360,3.1
+Haryana,HR,2024,Account Takeover,836,504,199,766,4.15
+Haryana,HR,2024,Investment & Cryptocurrency Fraud,845,521,235,677,3.37
+Haryana,HR,2024,E-Commerce & Shopping Scam,537,312,107,535,1.55
+Haryana,HR,2024,Job & Recruitment Fraud,320,204,60,264,1.37
+Haryana,HR,2025,UPI / Online Banking Fraud,3600,2022,897,2864,16.39
+Haryana,HR,2025,Phishing & Social Engineering,2045,899,230,1482,13.99
+Haryana,HR,2025,Identity Theft & Impersonation,1409,882,268,1197,6.06
+Haryana,HR,2025,Cyber Stalking & Bullying,1030,605,272,872,7.47
+Haryana,HR,2025,Ransomware & Malware Attacks,778,403,191,446,6.01
+Haryana,HR,2025,Corporate Data Breach,616,292,89,347,4.87
+Haryana,HR,2025,Account Takeover,886,468,216,648,3.82
+Haryana,HR,2025,Investment & Cryptocurrency Fraud,835,401,137,471,6.79
+Haryana,HR,2025,E-Commerce & Shopping Scam,668,382,152,446,5.39
+Haryana,HR,2025,Job & Recruitment Fraud,405,232,63,342,2.61
+Madhya Pradesh,MP,2019,UPI / Online Banking Fraud,1317,561,167,799,10.83
+Madhya Pradesh,MP,2019,Phishing & Social Engineering,827,459,161,809,5.95
+Madhya Pradesh,MP,2019,Identity Theft & Impersonation,595,386,130,693,2.64
+Madhya Pradesh,MP,2019,Cyber Stalking & Bullying,362,186,58,281,0.97
+Madhya Pradesh,MP,2019,Ransomware & Malware Attacks,353,158,70,186,2.61
+Madhya Pradesh,MP,2019,Corporate Data Breach,257,116,39,191,0.7
+Madhya Pradesh,MP,2019,Account Takeover,319,134,46,229,2.6
+Madhya Pradesh,MP,2019,Investment & Cryptocurrency Fraud,307,141,62,182,1.36
+Madhya Pradesh,MP,2019,E-Commerce & Shopping Scam,221,116,47,201,0.89
+Madhya Pradesh,MP,2019,Job & Recruitment Fraud,147,91,24,151,1.16
+Madhya Pradesh,MP,2020,UPI / Online Banking Fraud,1432,801,207,1027,7.81
+Madhya Pradesh,MP,2020,Phishing & Social Engineering,808,440,209,706,4.84
+Madhya Pradesh,MP,2020,Identity Theft & Impersonation,594,271,120,477,4.61
+Madhya Pradesh,MP,2020,Cyber Stalking & Bullying,569,369,158,630,3.05
+Madhya Pradesh,MP,2020,Ransomware & Malware Attacks,344,186,53,209,2.28
+Madhya Pradesh,MP,2020,Corporate Data Breach,290,164,52,241,2.11
+Madhya Pradesh,MP,2020,Account Takeover,408,240,65,399,1.22
+Madhya Pradesh,MP,2020,Investment & Cryptocurrency Fraud,421,220,65,395,2.33
+Madhya Pradesh,MP,2020,E-Commerce & Shopping Scam,270,121,30,138,1.92
+Madhya Pradesh,MP,2020,Job & Recruitment Fraud,143,62,27,68,0.79
+Madhya Pradesh,MP,2021,UPI / Online Banking Fraud,1690,856,377,956,12.41
+Madhya Pradesh,MP,2021,Phishing & Social Engineering,1094,671,218,1088,7.45
+Madhya Pradesh,MP,2021,Identity Theft & Impersonation,776,488,167,680,3.89
+Madhya Pradesh,MP,2021,Cyber Stalking & Bullying,529,279,107,485,1.48
+Madhya Pradesh,MP,2021,Ransomware & Malware Attacks,382,166,43,215,2.93
+Madhya Pradesh,MP,2021,Corporate Data Breach,338,216,92,284,2.71
+Madhya Pradesh,MP,2021,Account Takeover,550,245,117,419,2.48
+Madhya Pradesh,MP,2021,Investment & Cryptocurrency Fraud,494,221,73,282,3.1
+Madhya Pradesh,MP,2021,E-Commerce & Shopping Scam,341,158,69,193,0.95
+Madhya Pradesh,MP,2021,Job & Recruitment Fraud,203,88,41,120,1.04
+Madhya Pradesh,MP,2022,UPI / Online Banking Fraud,1925,1190,549,1735,15.52
+Madhya Pradesh,MP,2022,Phishing & Social Engineering,999,501,129,704,5.88
+Madhya Pradesh,MP,2022,Identity Theft & Impersonation,854,528,221,829,2.56
+Madhya Pradesh,MP,2022,Cyber Stalking & Bullying,608,328,85,507,3.46
+Madhya Pradesh,MP,2022,Ransomware & Malware Attacks,422,207,97,266,1.42
+Madhya Pradesh,MP,2022,Corporate Data Breach,375,220,99,291,1.44
+Madhya Pradesh,MP,2022,Account Takeover,598,338,105,380,4.06
+Madhya Pradesh,MP,2022,Investment & Cryptocurrency Fraud,546,272,115,383,4.05
+Madhya Pradesh,MP,2022,E-Commerce & Shopping Scam,302,187,64,304,2.07
+Madhya Pradesh,MP,2022,Job & Recruitment Fraud,217,122,36,176,0.86
+Madhya Pradesh,MP,2023,UPI / Online Banking Fraud,1817,1165,391,1641,14.49
+Madhya Pradesh,MP,2023,Phishing & Social Engineering,1154,646,182,852,5.56
+Madhya Pradesh,MP,2023,Identity Theft & Impersonation,895,550,141,825,4.2
+Madhya Pradesh,MP,2023,Cyber Stalking & Bullying,657,420,176,546,4.44
+Madhya Pradesh,MP,2023,Ransomware & Malware Attacks,539,301,94,452,3.5
+Madhya Pradesh,MP,2023,Corporate Data Breach,339,175,47,228,2.06
+Madhya Pradesh,MP,2023,Account Takeover,630,290,114,416,2.79
+Madhya Pradesh,MP,2023,Investment & Cryptocurrency Fraud,575,251,79,286,3.43
+Madhya Pradesh,MP,2023,E-Commerce & Shopping Scam,316,136,34,202,1.87
+Madhya Pradesh,MP,2023,Job & Recruitment Fraud,219,141,50,215,0.75
+Madhya Pradesh,MP,2024,UPI / Online Banking Fraud,2193,1043,265,1279,15.52
+Madhya Pradesh,MP,2024,Phishing & Social Engineering,1380,609,156,1066,6.89
+Madhya Pradesh,MP,2024,Identity Theft & Impersonation,969,603,171,986,8.08
+Madhya Pradesh,MP,2024,Cyber Stalking & Bullying,679,335,144,584,3.05
+Madhya Pradesh,MP,2024,Ransomware & Malware Attacks,500,247,98,319,2.6
+Madhya Pradesh,MP,2024,Corporate Data Breach,461,198,91,295,1.68
+Madhya Pradesh,MP,2024,Account Takeover,668,430,156,609,3.28
+Madhya Pradesh,MP,2024,Investment & Cryptocurrency Fraud,646,390,174,575,3.37
+Madhya Pradesh,MP,2024,E-Commerce & Shopping Scam,454,256,85,335,2.15
+Madhya Pradesh,MP,2024,Job & Recruitment Fraud,239,125,35,202,0.68
+Madhya Pradesh,MP,2025,UPI / Online Banking Fraud,2836,1803,747,2371,10.84
+Madhya Pradesh,MP,2025,Phishing & Social Engineering,1455,846,224,1334,11.96
+Madhya Pradesh,MP,2025,Identity Theft & Impersonation,1069,518,223,707,6.65
+Madhya Pradesh,MP,2025,Cyber Stalking & Bullying,855,500,239,868,5.59
+Madhya Pradesh,MP,2025,Ransomware & Malware Attacks,584,327,113,577,3.08
+Madhya Pradesh,MP,2025,Corporate Data Breach,474,286,115,343,3.77
+Madhya Pradesh,MP,2025,Account Takeover,823,490,215,555,4.29
+Madhya Pradesh,MP,2025,Investment & Cryptocurrency Fraud,638,281,96,386,1.73
+Madhya Pradesh,MP,2025,E-Commerce & Shopping Scam,450,285,129,435,1.59
+Madhya Pradesh,MP,2025,Job & Recruitment Fraud,249,132,48,216,0.82
+Bihar,BR,2019,UPI / Online Banking Fraud,997,582,204,877,5.99
+Bihar,BR,2019,Phishing & Social Engineering,642,290,117,481,2.66
+Bihar,BR,2019,Identity Theft & Impersonation,424,193,92,244,1.1
+Bihar,BR,2019,Cyber Stalking & Bullying,383,218,94,391,1.49
+Bihar,BR,2019,Ransomware & Malware Attacks,266,137,59,240,1.75
+Bihar,BR,2019,Corporate Data Breach,190,87,25,96,0.71
+Bihar,BR,2019,Account Takeover,347,149,68,216,1.69
+Bihar,BR,2019,Investment & Cryptocurrency Fraud,299,160,58,252,1.76
+Bihar,BR,2019,E-Commerce & Shopping Scam,216,132,39,182,1.1
+Bihar,BR,2019,Job & Recruitment Fraud,133,65,19,104,0.93
+Bihar,BR,2020,UPI / Online Banking Fraud,1425,728,326,884,4.69
+Bihar,BR,2020,Phishing & Social Engineering,690,298,95,423,2.11
+Bihar,BR,2020,Identity Theft & Impersonation,628,343,87,466,4.72
+Bihar,BR,2020,Cyber Stalking & Bullying,423,205,79,240,1.18
+Bihar,BR,2020,Ransomware & Malware Attacks,316,150,61,181,1.27
+Bihar,BR,2020,Corporate Data Breach,243,105,48,151,1.26
+Bihar,BR,2020,Account Takeover,388,245,99,311,3.05
+Bihar,BR,2020,Investment & Cryptocurrency Fraud,354,155,67,220,1.57
+Bihar,BR,2020,E-Commerce & Shopping Scam,238,130,41,147,0.92
+Bihar,BR,2020,Job & Recruitment Fraud,148,92,34,108,1.09
+Bihar,BR,2021,UPI / Online Banking Fraud,1736,1099,354,1729,9.62
+Bihar,BR,2021,Phishing & Social Engineering,898,379,121,418,3.06
+Bihar,BR,2021,Identity Theft & Impersonation,721,302,128,438,2.23
+Bihar,BR,2021,Cyber Stalking & Bullying,494,319,134,403,4.1
+Bihar,BR,2021,Ransomware & Malware Attacks,391,249,109,442,1.54
+Bihar,BR,2021,Corporate Data Breach,267,148,57,239,1.89
+Bihar,BR,2021,Account Takeover,495,209,52,293,2.33
+Bihar,BR,2021,Investment & Cryptocurrency Fraud,439,244,93,328,1.11
+Bihar,BR,2021,E-Commerce & Shopping Scam,277,165,59,185,0.94
+Bihar,BR,2021,Job & Recruitment Fraud,160,67,31,90,0.61
+Bihar,BR,2022,UPI / Online Banking Fraud,1938,1073,289,1921,13.41
+Bihar,BR,2022,Phishing & Social Engineering,989,491,161,795,6.96
+Bihar,BR,2022,Identity Theft & Impersonation,824,357,94,417,3.87
+Bihar,BR,2022,Cyber Stalking & Bullying,568,291,87,396,1.58
+Bihar,BR,2022,Ransomware & Malware Attacks,496,298,125,472,2.96
+Bihar,BR,2022,Corporate Data Breach,288,171,51,220,2.12
+Bihar,BR,2022,Account Takeover,474,207,61,329,2.01
+Bihar,BR,2022,Investment & Cryptocurrency Fraud,457,238,69,371,2.37
+Bihar,BR,2022,E-Commerce & Shopping Scam,351,221,68,248,1.79
+Bihar,BR,2022,Job & Recruitment Fraud,199,103,33,175,0.77
+Bihar,BR,2023,UPI / Online Banking Fraud,1942,892,377,1260,11.11
+Bihar,BR,2023,Phishing & Social Engineering,1126,676,209,1116,6.4
+Bihar,BR,2023,Identity Theft & Impersonation,816,476,157,557,4.08
+Bihar,BR,2023,Cyber Stalking & Bullying,585,274,100,405,4.93
+Bihar,BR,2023,Ransomware & Malware Attacks,434,242,79,428,3.39
+Bihar,BR,2023,Corporate Data Breach,333,177,61,272,2.45
+Bihar,BR,2023,Account Takeover,629,401,108,548,2.17
+Bihar,BR,2023,Investment & Cryptocurrency Fraud,506,300,76,361,3.19
+Bihar,BR,2023,E-Commerce & Shopping Scam,353,197,70,281,1.41
+Bihar,BR,2023,Job & Recruitment Fraud,206,91,28,110,1.48
+Bihar,BR,2024,UPI / Online Banking Fraud,1977,1112,456,1243,13.2
+Bihar,BR,2024,Phishing & Social Engineering,1290,794,373,1359,4.52
+Bihar,BR,2024,Identity Theft & Impersonation,931,443,158,543,3.08
+Bihar,BR,2024,Cyber Stalking & Bullying,641,380,98,583,3.14
+Bihar,BR,2024,Ransomware & Malware Attacks,509,237,78,406,4.21
+Bihar,BR,2024,Corporate Data Breach,318,192,58,213,2.62
+Bihar,BR,2024,Account Takeover,534,265,80,466,2.66
+Bihar,BR,2024,Investment & Cryptocurrency Fraud,550,250,105,276,1.48
+Bihar,BR,2024,E-Commerce & Shopping Scam,361,210,66,369,1.19
+Bihar,BR,2024,Job & Recruitment Fraud,196,124,47,144,1.0
+Bihar,BR,2025,UPI / Online Banking Fraud,2229,1155,472,1951,5.81
+Bihar,BR,2025,Phishing & Social Engineering,1237,595,173,698,10.27
+Bihar,BR,2025,Identity Theft & Impersonation,943,551,221,802,6.69
+Bihar,BR,2025,Cyber Stalking & Bullying,643,302,129,392,3.43
+Bihar,BR,2025,Ransomware & Malware Attacks,531,223,61,309,3.81
+Bihar,BR,2025,Corporate Data Breach,440,222,96,245,3.52
+Bihar,BR,2025,Account Takeover,604,372,159,437,1.72
+Bihar,BR,2025,Investment & Cryptocurrency Fraud,595,317,123,432,3.37
+Bihar,BR,2025,E-Commerce & Shopping Scam,426,269,121,344,3.24
+Bihar,BR,2025,Job & Recruitment Fraud,239,150,38,260,1.28
+Punjab,PB,2019,UPI / Online Banking Fraud,970,483,228,716,6.09
+Punjab,PB,2019,Phishing & Social Engineering,598,310,93,447,4.58
+Punjab,PB,2019,Identity Theft & Impersonation,414,222,78,374,2.38
+Punjab,PB,2019,Cyber Stalking & Bullying,303,190,88,236,0.84
+Punjab,PB,2019,Ransomware & Malware Attacks,257,157,70,176,1.47
+Punjab,PB,2019,Corporate Data Breach,169,73,31,91,0.89
+Punjab,PB,2019,Account Takeover,277,166,51,233,0.77
+Punjab,PB,2019,Investment & Cryptocurrency Fraud,252,107,45,181,1.23
+Punjab,PB,2019,E-Commerce & Shopping Scam,157,83,23,135,1.13
+Punjab,PB,2019,Job & Recruitment Fraud,97,48,16,62,0.34
+Punjab,PB,2020,UPI / Online Banking Fraud,1373,639,244,934,11.06
+Punjab,PB,2020,Phishing & Social Engineering,641,312,99,538,2.6
+Punjab,PB,2020,Identity Theft & Impersonation,523,336,100,519,1.31
+Punjab,PB,2020,Cyber Stalking & Bullying,362,171,45,267,2.89
+Punjab,PB,2020,Ransomware & Malware Attacks,297,166,48,206,1.53
+Punjab,PB,2020,Corporate Data Breach,208,124,58,207,1.04
+Punjab,PB,2020,Account Takeover,376,178,52,311,2.91
+Punjab,PB,2020,Investment & Cryptocurrency Fraud,288,150,69,188,1.8
+Punjab,PB,2020,E-Commerce & Shopping Scam,234,149,48,221,1.57
+Punjab,PB,2020,Job & Recruitment Fraud,156,88,35,124,0.89
+Punjab,PB,2021,UPI / Online Banking Fraud,1338,634,267,1011,3.8
+Punjab,PB,2021,Phishing & Social Engineering,921,459,169,559,3.95
+Punjab,PB,2021,Identity Theft & Impersonation,633,315,147,519,3.0
+Punjab,PB,2021,Cyber Stalking & Bullying,496,296,95,377,2.63
+Punjab,PB,2021,Ransomware & Malware Attacks,403,219,64,297,1.54
+Punjab,PB,2021,Corporate Data Breach,229,127,33,142,0.91
+Punjab,PB,2021,Account Takeover,399,220,86,347,1.21
+Punjab,PB,2021,Investment & Cryptocurrency Fraud,341,196,55,333,2.34
+Punjab,PB,2021,E-Commerce & Shopping Scam,233,99,47,146,0.76
+Punjab,PB,2021,Job & Recruitment Fraud,147,85,29,105,1.07
+Punjab,PB,2022,UPI / Online Banking Fraud,1696,879,241,1092,4.4
+Punjab,PB,2022,Phishing & Social Engineering,1045,538,139,672,8.48
+Punjab,PB,2022,Identity Theft & Impersonation,772,362,168,477,4.38
+Punjab,PB,2022,Cyber Stalking & Bullying,442,282,121,376,2.46
+Punjab,PB,2022,Ransomware & Malware Attacks,438,274,73,313,2.75
+Punjab,PB,2022,Corporate Data Breach,290,139,61,209,0.92
+Punjab,PB,2022,Account Takeover,396,243,108,387,2.0
+Punjab,PB,2022,Investment & Cryptocurrency Fraud,345,208,79,268,1.66
+Punjab,PB,2022,E-Commerce & Shopping Scam,308,171,79,217,2.55
+Punjab,PB,2022,Job & Recruitment Fraud,163,101,38,157,1.26
+Punjab,PB,2023,UPI / Online Banking Fraud,1860,966,242,1117,10.25
+Punjab,PB,2023,Phishing & Social Engineering,864,511,210,751,2.9
+Punjab,PB,2023,Identity Theft & Impersonation,826,524,146,700,5.23
+Punjab,PB,2023,Cyber Stalking & Bullying,578,366,97,504,1.82
+Punjab,PB,2023,Ransomware & Malware Attacks,462,194,53,344,1.68
+Punjab,PB,2023,Corporate Data Breach,323,208,53,354,1.47
+Punjab,PB,2023,Account Takeover,522,320,89,521,1.94
+Punjab,PB,2023,Investment & Cryptocurrency Fraud,439,237,62,309,2.91
+Punjab,PB,2023,E-Commerce & Shopping Scam,360,175,54,278,2.16
+Punjab,PB,2023,Job & Recruitment Fraud,169,107,46,166,0.69
+Punjab,PB,2024,UPI / Online Banking Fraud,1645,1030,454,1299,12.61
+Punjab,PB,2024,Phishing & Social Engineering,1150,615,232,913,5.9
+Punjab,PB,2024,Identity Theft & Impersonation,918,400,147,586,4.14
+Punjab,PB,2024,Cyber Stalking & Bullying,581,263,111,422,2.57
+Punjab,PB,2024,Ransomware & Malware Attacks,535,327,154,581,3.39
+Punjab,PB,2024,Corporate Data Breach,352,215,101,340,1.28
+Punjab,PB,2024,Account Takeover,465,293,124,437,1.94
+Punjab,PB,2024,Investment & Cryptocurrency Fraud,543,314,96,419,4.38
+Punjab,PB,2024,E-Commerce & Shopping Scam,314,139,47,206,1.36
+Punjab,PB,2024,Job & Recruitment Fraud,202,100,45,166,0.6
+Punjab,PB,2025,UPI / Online Banking Fraud,1895,1111,364,1718,7.31
+Punjab,PB,2025,Phishing & Social Engineering,1318,747,256,1066,6.75
+Punjab,PB,2025,Identity Theft & Impersonation,931,573,190,745,5.42
+Punjab,PB,2025,Cyber Stalking & Bullying,732,383,163,503,6.05
+Punjab,PB,2025,Ransomware & Malware Attacks,580,335,146,376,2.92
+Punjab,PB,2025,Corporate Data Breach,372,228,82,386,2.87
+Punjab,PB,2025,Account Takeover,651,287,94,513,1.7
+Punjab,PB,2025,Investment & Cryptocurrency Fraud,585,309,100,433,3.77
+Punjab,PB,2025,E-Commerce & Shopping Scam,336,154,45,176,1.86
+Punjab,PB,2025,Job & Recruitment Fraud,255,117,31,189,0.78
+Odisha,OD,2019,UPI / Online Banking Fraud,799,489,136,791,3.94
+Odisha,OD,2019,Phishing & Social Engineering,436,222,77,266,1.53
+Odisha,OD,2019,Identity Theft & Impersonation,346,148,40,264,2.2
+Odisha,OD,2019,Cyber Stalking & Bullying,255,147,56,201,1.64
+Odisha,OD,2019,Ransomware & Malware Attacks,222,106,40,179,1.08
+Odisha,OD,2019,Corporate Data Breach,133,86,31,117,0.53
+Odisha,OD,2019,Account Takeover,240,144,64,239,1.34
+Odisha,OD,2019,Investment & Cryptocurrency Fraud,199,86,22,150,0.75
+Odisha,OD,2019,E-Commerce & Shopping Scam,135,76,20,89,0.37
+Odisha,OD,2019,Job & Recruitment Fraud,83,42,17,60,0.32
+Odisha,OD,2020,UPI / Online Banking Fraud,1149,527,217,584,9.61
+Odisha,OD,2020,Phishing & Social Engineering,578,323,113,527,3.35
+Odisha,OD,2020,Identity Theft & Impersonation,471,282,96,477,3.04
+Odisha,OD,2020,Cyber Stalking & Bullying,358,160,76,211,1.24
+Odisha,OD,2020,Ransomware & Malware Attacks,286,169,60,215,1.1
+Odisha,OD,2020,Corporate Data Breach,170,89,24,127,0.43
+Odisha,OD,2020,Account Takeover,273,120,37,185,1.69
+Odisha,OD,2020,Investment & Cryptocurrency Fraud,287,149,66,173,0.75
+Odisha,OD,2020,E-Commerce & Shopping Scam,166,93,35,144,1.14
+Odisha,OD,2020,Job & Recruitment Fraud,129,83,34,141,0.44
+Odisha,OD,2021,UPI / Online Banking Fraud,1361,805,211,1322,6.85
+Odisha,OD,2021,Phishing & Social Engineering,642,304,100,378,3.3
+Odisha,OD,2021,Identity Theft & Impersonation,458,229,62,302,1.3
+Odisha,OD,2021,Cyber Stalking & Bullying,406,237,90,283,1.56
+Odisha,OD,2021,Ransomware & Malware Attacks,333,190,72,305,2.11
+Odisha,OD,2021,Corporate Data Breach,233,139,60,169,1.46
+Odisha,OD,2021,Account Takeover,311,178,55,264,1.63
+Odisha,OD,2021,Investment & Cryptocurrency Fraud,335,206,80,250,2.82
+Odisha,OD,2021,E-Commerce & Shopping Scam,210,94,37,121,1.37
+Odisha,OD,2021,Job & Recruitment Fraud,118,61,27,74,0.33
+Odisha,OD,2022,UPI / Online Banking Fraud,1521,791,336,1319,9.1
+Odisha,OD,2022,Phishing & Social Engineering,704,375,96,497,2.96
+Odisha,OD,2022,Identity Theft & Impersonation,599,278,71,482,4.66
+Odisha,OD,2022,Cyber Stalking & Bullying,482,269,101,460,1.97
+Odisha,OD,2022,Ransomware & Malware Attacks,376,171,58,230,2.16
+Odisha,OD,2022,Corporate Data Breach,268,130,58,175,1.78
+Odisha,OD,2022,Account Takeover,432,237,81,363,1.27
+Odisha,OD,2022,Investment & Cryptocurrency Fraud,317,200,95,279,0.94
+Odisha,OD,2022,E-Commerce & Shopping Scam,227,97,35,122,1.52
+Odisha,OD,2022,Job & Recruitment Fraud,141,70,19,113,0.62
+Odisha,OD,2023,UPI / Online Banking Fraud,1690,981,299,1362,4.51
+Odisha,OD,2023,Phishing & Social Engineering,877,437,143,744,3.93
+Odisha,OD,2023,Identity Theft & Impersonation,553,289,134,498,4.3
+Odisha,OD,2023,Cyber Stalking & Bullying,534,274,123,453,2.97
+Odisha,OD,2023,Ransomware & Malware Attacks,382,217,76,242,1.68
+Odisha,OD,2023,Corporate Data Breach,245,116,36,152,0.93
+Odisha,OD,2023,Account Takeover,445,227,66,401,1.25
+Odisha,OD,2023,Investment & Cryptocurrency Fraud,423,187,80,313,1.94
+Odisha,OD,2023,E-Commerce & Shopping Scam,292,143,46,224,1.44
+Odisha,OD,2023,Job & Recruitment Fraud,178,111,46,198,0.82
+Odisha,OD,2024,UPI / Online Banking Fraud,1492,853,343,1417,7.56
+Odisha,OD,2024,Phishing & Social Engineering,918,519,199,721,6.32
+Odisha,OD,2024,Identity Theft & Impersonation,691,372,104,602,5.59
+Odisha,OD,2024,Cyber Stalking & Bullying,603,283,78,342,3.29
+Odisha,OD,2024,Ransomware & Malware Attacks,394,205,81,277,1.86
+Odisha,OD,2024,Corporate Data Breach,316,152,44,270,2.31
+Odisha,OD,2024,Account Takeover,452,210,100,283,2.03
+Odisha,OD,2024,Investment & Cryptocurrency Fraud,377,230,76,288,1.35
+Odisha,OD,2024,E-Commerce & Shopping Scam,281,139,50,227,2.29
+Odisha,OD,2024,Job & Recruitment Fraud,167,91,37,113,0.7
+Odisha,OD,2025,UPI / Online Banking Fraud,1871,845,279,1399,10.34
+Odisha,OD,2025,Phishing & Social Engineering,1043,559,215,696,8.61
+Odisha,OD,2025,Identity Theft & Impersonation,690,368,132,572,4.91
+Odisha,OD,2025,Cyber Stalking & Bullying,499,235,95,303,1.97
+Odisha,OD,2025,Ransomware & Malware Attacks,466,215,55,279,3.03
+Odisha,OD,2025,Corporate Data Breach,326,199,79,326,1.9
+Odisha,OD,2025,Account Takeover,500,298,84,474,1.59
+Odisha,OD,2025,Investment & Cryptocurrency Fraud,390,185,75,206,2.94
+Odisha,OD,2025,E-Commerce & Shopping Scam,284,179,47,306,1.05
+Odisha,OD,2025,Job & Recruitment Fraud,201,124,31,140,1.39
+Assam,AS,2019,UPI / Online Banking Fraud,970,418,166,716,7.8
+Assam,AS,2019,Phishing & Social Engineering,526,244,71,311,4.44
+Assam,AS,2019,Identity Theft & Impersonation,311,160,55,236,1.39
+Assam,AS,2019,Cyber Stalking & Bullying,278,137,53,151,1.05
+Assam,AS,2019,Ransomware & Malware Attacks,228,139,38,204,0.73
+Assam,AS,2019,Corporate Data Breach,160,69,24,97,0.91
+Assam,AS,2019,Account Takeover,249,112,37,173,1.41
+Assam,AS,2019,Investment & Cryptocurrency Fraud,228,146,38,172,1.58
+Assam,AS,2019,E-Commerce & Shopping Scam,169,90,24,101,1.42
+Assam,AS,2019,Job & Recruitment Fraud,102,65,17,112,0.56
+Assam,AS,2020,UPI / Online Banking Fraud,868,552,258,677,4.67
+Assam,AS,2020,Phishing & Social Engineering,532,241,88,330,4.36
+Assam,AS,2020,Identity Theft & Impersonation,401,247,79,413,2.53
+Assam,AS,2020,Cyber Stalking & Bullying,273,148,60,190,1.99
+Assam,AS,2020,Ransomware & Malware Attacks,273,153,61,261,0.9
+Assam,AS,2020,Corporate Data Breach,197,99,47,124,0.97
+Assam,AS,2020,Account Takeover,314,168,69,276,2.39
+Assam,AS,2020,Investment & Cryptocurrency Fraud,253,154,62,174,1.27
+Assam,AS,2020,E-Commerce & Shopping Scam,153,66,18,106,0.79
+Assam,AS,2020,Job & Recruitment Fraud,121,69,20,106,0.63
+Assam,AS,2021,UPI / Online Banking Fraud,970,419,150,620,4.34
+Assam,AS,2021,Phishing & Social Engineering,618,309,103,468,3.27
+Assam,AS,2021,Identity Theft & Impersonation,430,256,86,446,1.59
+Assam,AS,2021,Cyber Stalking & Bullying,321,179,81,321,0.92
+Assam,AS,2021,Ransomware & Malware Attacks,258,158,56,255,2.05
+Assam,AS,2021,Corporate Data Breach,223,103,30,130,1.57
+Assam,AS,2021,Account Takeover,356,156,60,211,2.94
+Assam,AS,2021,Investment & Cryptocurrency Fraud,283,162,54,202,1.19
+Assam,AS,2021,E-Commerce & Shopping Scam,225,115,49,141,0.66
+Assam,AS,2021,Job & Recruitment Fraud,119,51,14,73,0.56
+Assam,AS,2022,UPI / Online Banking Fraud,1333,671,173,1153,10.52
+Assam,AS,2022,Phishing & Social Engineering,656,417,178,621,5.49
+Assam,AS,2022,Identity Theft & Impersonation,592,371,118,523,3.03
+Assam,AS,2022,Cyber Stalking & Bullying,401,197,55,274,2.84
+Assam,AS,2022,Ransomware & Malware Attacks,281,165,47,293,1.39
+Assam,AS,2022,Corporate Data Breach,221,109,45,131,1.07
+Assam,AS,2022,Account Takeover,354,155,61,270,2.39
+Assam,AS,2022,Investment & Cryptocurrency Fraud,323,150,53,197,1.93
+Assam,AS,2022,E-Commerce & Shopping Scam,218,114,47,169,1.49
+Assam,AS,2022,Job & Recruitment Fraud,122,75,32,124,0.92
+Assam,AS,2023,UPI / Online Banking Fraud,1216,538,172,851,3.23
+Assam,AS,2023,Phishing & Social Engineering,778,483,150,624,2.53
+Assam,AS,2023,Identity Theft & Impersonation,541,275,92,481,2.53
+Assam,AS,2023,Cyber Stalking & Bullying,429,253,113,290,2.89
+Assam,AS,2023,Ransomware & Malware Attacks,314,161,42,186,2.11
+Assam,AS,2023,Corporate Data Breach,229,134,55,175,1.9
+Assam,AS,2023,Account Takeover,416,253,96,342,3.27
+Assam,AS,2023,Investment & Cryptocurrency Fraud,345,215,64,381,2.73
+Assam,AS,2023,E-Commerce & Shopping Scam,258,160,40,251,0.98
+Assam,AS,2023,Job & Recruitment Fraud,165,73,34,89,1.22
+Assam,AS,2024,UPI / Online Banking Fraud,1583,806,365,1116,11.76
+Assam,AS,2024,Phishing & Social Engineering,947,466,189,659,6.73
+Assam,AS,2024,Identity Theft & Impersonation,692,333,94,422,2.22
+Assam,AS,2024,Cyber Stalking & Bullying,526,303,78,467,2.17
+Assam,AS,2024,Ransomware & Malware Attacks,353,209,68,363,1.15
+Assam,AS,2024,Corporate Data Breach,248,145,54,193,1.24
+Assam,AS,2024,Account Takeover,395,231,97,415,2.68
+Assam,AS,2024,Investment & Cryptocurrency Fraud,434,208,56,307,1.09
+Assam,AS,2024,E-Commerce & Shopping Scam,299,191,88,259,1.45
+Assam,AS,2024,Job & Recruitment Fraud,152,92,37,123,1.2
+Assam,AS,2025,UPI / Online Banking Fraud,1364,722,196,1208,4.2
+Assam,AS,2025,Phishing & Social Engineering,919,457,214,581,2.56
+Assam,AS,2025,Identity Theft & Impersonation,627,392,125,559,2.81
+Assam,AS,2025,Cyber Stalking & Bullying,561,243,96,435,2.42
+Assam,AS,2025,Ransomware & Malware Attacks,349,166,76,294,2.21
+Assam,AS,2025,Corporate Data Breach,244,130,61,224,1.11
+Assam,AS,2025,Account Takeover,416,263,98,322,2.31
+Assam,AS,2025,Investment & Cryptocurrency Fraud,340,150,37,208,2.57
+Assam,AS,2025,E-Commerce & Shopping Scam,250,156,73,214,0.97
+Assam,AS,2025,Job & Recruitment Fraud,185,116,41,135,1.41
+Jharkhand,JH,2019,UPI / Online Banking Fraud,949,577,147,1036,7.91
+Jharkhand,JH,2019,Phishing & Social Engineering,509,239,69,293,2.13
+Jharkhand,JH,2019,Identity Theft & Impersonation,429,248,118,304,1.5
+Jharkhand,JH,2019,Cyber Stalking & Bullying,325,168,55,265,2.57
+Jharkhand,JH,2019,Ransomware & Malware Attacks,238,152,64,185,0.98
+Jharkhand,JH,2019,Corporate Data Breach,169,101,40,159,1.26
+Jharkhand,JH,2019,Account Takeover,258,162,45,219,1.39
+Jharkhand,JH,2019,Investment & Cryptocurrency Fraud,211,95,32,132,0.56
+Jharkhand,JH,2019,E-Commerce & Shopping Scam,165,77,34,95,0.94
+Jharkhand,JH,2019,Job & Recruitment Fraud,94,61,28,77,0.39
+Jharkhand,JH,2020,UPI / Online Banking Fraud,1162,631,247,1043,6.3
+Jharkhand,JH,2020,Phishing & Social Engineering,669,292,79,517,3.51
+Jharkhand,JH,2020,Identity Theft & Impersonation,471,230,97,409,2.24
+Jharkhand,JH,2020,Cyber Stalking & Bullying,334,178,66,244,1.13
+Jharkhand,JH,2020,Ransomware & Malware Attacks,220,104,39,161,1.53
+Jharkhand,JH,2020,Corporate Data Breach,205,131,61,168,1.38
+Jharkhand,JH,2020,Account Takeover,328,160,48,274,2.77
+Jharkhand,JH,2020,Investment & Cryptocurrency Fraud,221,120,32,187,0.9
+Jharkhand,JH,2020,E-Commerce & Shopping Scam,187,83,27,142,1.15
+Jharkhand,JH,2020,Job & Recruitment Fraud,104,63,29,91,0.55
+Jharkhand,JH,2021,UPI / Online Banking Fraud,1247,661,260,1167,4.74
+Jharkhand,JH,2021,Phishing & Social Engineering,570,297,81,357,3.5
+Jharkhand,JH,2021,Identity Theft & Impersonation,484,287,83,464,2.91
+Jharkhand,JH,2021,Cyber Stalking & Bullying,350,199,55,315,1.03
+Jharkhand,JH,2021,Ransomware & Malware Attacks,257,164,76,273,1.65
+Jharkhand,JH,2021,Corporate Data Breach,201,110,29,147,1.3
+Jharkhand,JH,2021,Account Takeover,360,171,72,266,1.65
+Jharkhand,JH,2021,Investment & Cryptocurrency Fraud,252,107,43,117,1.28
+Jharkhand,JH,2021,E-Commerce & Shopping Scam,181,77,33,109,0.93
+Jharkhand,JH,2021,Job & Recruitment Fraud,122,66,28,75,0.89
+Jharkhand,JH,2022,UPI / Online Banking Fraud,1075,486,165,781,8.71
+Jharkhand,JH,2022,Phishing & Social Engineering,686,368,134,625,1.76
+Jharkhand,JH,2022,Identity Theft & Impersonation,619,300,138,492,1.87
+Jharkhand,JH,2022,Cyber Stalking & Bullying,366,205,90,316,1.14
+Jharkhand,JH,2022,Ransomware & Malware Attacks,285,154,45,218,0.73
+Jharkhand,JH,2022,Corporate Data Breach,198,101,35,164,0.75
+Jharkhand,JH,2022,Account Takeover,339,157,65,242,2.25
+Jharkhand,JH,2022,Investment & Cryptocurrency Fraud,357,200,70,221,1.21
+Jharkhand,JH,2022,E-Commerce & Shopping Scam,225,96,27,130,1.38
+Jharkhand,JH,2022,Job & Recruitment Fraud,129,79,28,120,0.53
+Jharkhand,JH,2023,UPI / Online Banking Fraud,1640,1040,277,1263,12.75
+Jharkhand,JH,2023,Phishing & Social Engineering,750,442,115,616,6.12
+Jharkhand,JH,2023,Identity Theft & Impersonation,591,379,165,651,4.23
+Jharkhand,JH,2023,Cyber Stalking & Bullying,494,276,92,352,3.69
+Jharkhand,JH,2023,Ransomware & Malware Attacks,396,218,84,347,2.51
+Jharkhand,JH,2023,Corporate Data Breach,289,139,36,193,1.29
+Jharkhand,JH,2023,Account Takeover,412,196,58,333,2.41
+Jharkhand,JH,2023,Investment & Cryptocurrency Fraud,359,232,99,410,1.3
+Jharkhand,JH,2023,E-Commerce & Shopping Scam,231,133,41,156,1.05
+Jharkhand,JH,2023,Job & Recruitment Fraud,176,102,27,159,0.73
+Jharkhand,JH,2024,UPI / Online Banking Fraud,1423,807,372,1159,6.92
+Jharkhand,JH,2024,Phishing & Social Engineering,876,558,224,734,3.25
+Jharkhand,JH,2024,Identity Theft & Impersonation,722,412,172,568,2.63
+Jharkhand,JH,2024,Cyber Stalking & Bullying,517,253,100,299,2.98
+Jharkhand,JH,2024,Ransomware & Malware Attacks,374,199,90,292,2.22
+Jharkhand,JH,2024,Corporate Data Breach,237,147,55,163,1.34
+Jharkhand,JH,2024,Account Takeover,404,200,70,352,2.61
+Jharkhand,JH,2024,Investment & Cryptocurrency Fraud,395,247,114,366,1.61
+Jharkhand,JH,2024,E-Commerce & Shopping Scam,270,120,37,178,1.08
+Jharkhand,JH,2024,Job & Recruitment Fraud,147,79,37,100,1.11
+Jharkhand,JH,2025,UPI / Online Banking Fraud,1881,817,368,1058,8.91
+Jharkhand,JH,2025,Phishing & Social Engineering,974,429,154,737,4.21
+Jharkhand,JH,2025,Identity Theft & Impersonation,811,522,206,730,5.69
+Jharkhand,JH,2025,Cyber Stalking & Bullying,523,278,97,358,3.5
+Jharkhand,JH,2025,Ransomware & Malware Attacks,368,183,87,269,1.31
+Jharkhand,JH,2025,Corporate Data Breach,300,143,44,244,0.75
+Jharkhand,JH,2025,Account Takeover,500,263,121,404,2.76
+Jharkhand,JH,2025,Investment & Cryptocurrency Fraud,431,234,94,405,3.57
+Jharkhand,JH,2025,E-Commerce & Shopping Scam,329,174,75,248,1.97
+Jharkhand,JH,2025,Job & Recruitment Fraud,186,79,27,107,1.01
+Chhattisgarh,CG,2019,UPI / Online Banking Fraud,615,386,128,667,4.52
+Chhattisgarh,CG,2019,Phishing & Social Engineering,349,199,87,229,0.89
+Chhattisgarh,CG,2019,Identity Theft & Impersonation,262,123,31,152,1.14
+Chhattisgarh,CG,2019,Cyber Stalking & Bullying,183,92,40,124,1.0
+Chhattisgarh,CG,2019,Ransomware & Malware Attacks,177,87,39,140,0.9
+Chhattisgarh,CG,2019,Corporate Data Breach,134,79,24,89,1.12
+Chhattisgarh,CG,2019,Account Takeover,203,127,38,163,1.25
+Chhattisgarh,CG,2019,Investment & Cryptocurrency Fraud,168,86,33,100,0.69
+Chhattisgarh,CG,2019,E-Commerce & Shopping Scam,123,67,27,107,0.97
+Chhattisgarh,CG,2019,Job & Recruitment Fraud,80,36,9,47,0.24
+Chhattisgarh,CG,2020,UPI / Online Banking Fraud,811,437,168,728,4.59
+Chhattisgarh,CG,2020,Phishing & Social Engineering,406,203,96,284,1.22
+Chhattisgarh,CG,2020,Identity Theft & Impersonation,303,190,56,296,0.83
+Chhattisgarh,CG,2020,Cyber Stalking & Bullying,259,150,48,177,1.42
+Chhattisgarh,CG,2020,Ransomware & Malware Attacks,170,103,48,145,0.84
+Chhattisgarh,CG,2020,Corporate Data Breach,145,68,21,117,0.87
+Chhattisgarh,CG,2020,Account Takeover,222,138,35,195,1.59
+Chhattisgarh,CG,2020,Investment & Cryptocurrency Fraud,218,122,31,192,1.75
+Chhattisgarh,CG,2020,E-Commerce & Shopping Scam,145,62,25,99,0.82
+Chhattisgarh,CG,2020,Job & Recruitment Fraud,90,58,16,83,0.38
+Chhattisgarh,CG,2021,UPI / Online Banking Fraud,782,439,137,604,4.25
+Chhattisgarh,CG,2021,Phishing & Social Engineering,457,223,71,374,3.04
+Chhattisgarh,CG,2021,Identity Theft & Impersonation,368,231,98,288,2.85
+Chhattisgarh,CG,2021,Cyber Stalking & Bullying,276,172,73,200,1.41
+Chhattisgarh,CG,2021,Ransomware & Malware Attacks,242,101,33,172,1.48
+Chhattisgarh,CG,2021,Corporate Data Breach,163,73,31,120,1.1
+Chhattisgarh,CG,2021,Account Takeover,279,149,57,235,2.18
+Chhattisgarh,CG,2021,Investment & Cryptocurrency Fraud,214,112,30,182,0.62
+Chhattisgarh,CG,2021,E-Commerce & Shopping Scam,178,88,34,110,0.45
+Chhattisgarh,CG,2021,Job & Recruitment Fraud,88,46,17,59,0.52
+Chhattisgarh,CG,2022,UPI / Online Banking Fraud,949,400,126,659,2.98
+Chhattisgarh,CG,2022,Phishing & Social Engineering,484,297,120,384,3.07
+Chhattisgarh,CG,2022,Identity Theft & Impersonation,445,230,91,294,3.71
+Chhattisgarh,CG,2022,Cyber Stalking & Bullying,275,169,70,210,1.47
+Chhattisgarh,CG,2022,Ransomware & Malware Attacks,281,140,61,192,0.83
+Chhattisgarh,CG,2022,Corporate Data Breach,184,91,37,111,1.14
+Chhattisgarh,CG,2022,Account Takeover,273,127,33,174,2.13
+Chhattisgarh,CG,2022,Investment & Cryptocurrency Fraud,245,150,64,203,1.91
+Chhattisgarh,CG,2022,E-Commerce & Shopping Scam,183,98,32,114,0.48
+Chhattisgarh,CG,2022,Job & Recruitment Fraud,106,61,19,72,0.63
+Chhattisgarh,CG,2023,UPI / Online Banking Fraud,1042,579,217,944,3.6
+Chhattisgarh,CG,2023,Phishing & Social Engineering,581,274,74,315,4.7
+Chhattisgarh,CG,2023,Identity Theft & Impersonation,466,247,113,341,3.63
+Chhattisgarh,CG,2023,Cyber Stalking & Bullying,326,179,58,210,1.74
+Chhattisgarh,CG,2023,Ransomware & Malware Attacks,293,168,54,186,0.96
+Chhattisgarh,CG,2023,Corporate Data Breach,194,101,25,125,1.25
+Chhattisgarh,CG,2023,Account Takeover,347,224,106,399,1.49
+Chhattisgarh,CG,2023,Investment & Cryptocurrency Fraud,254,121,46,170,1.64
+Chhattisgarh,CG,2023,E-Commerce & Shopping Scam,201,116,31,178,0.93
+Chhattisgarh,CG,2023,Job & Recruitment Fraud,105,58,19,77,0.34
+Chhattisgarh,CG,2024,UPI / Online Banking Fraud,1205,542,256,697,8.25
+Chhattisgarh,CG,2024,Phishing & Social Engineering,701,409,146,510,5.0
+Chhattisgarh,CG,2024,Identity Theft & Impersonation,553,278,126,405,1.85
+Chhattisgarh,CG,2024,Cyber Stalking & Bullying,431,253,67,309,3.43
+Chhattisgarh,CG,2024,Ransomware & Malware Attacks,317,154,42,235,2.27
+Chhattisgarh,CG,2024,Corporate Data Breach,222,118,50,159,0.75
+Chhattisgarh,CG,2024,Account Takeover,340,197,90,266,1.1
+Chhattisgarh,CG,2024,Investment & Cryptocurrency Fraud,343,212,80,288,1.65
+Chhattisgarh,CG,2024,E-Commerce & Shopping Scam,212,110,31,122,0.59
+Chhattisgarh,CG,2024,Job & Recruitment Fraud,135,60,25,82,0.89
+Chhattisgarh,CG,2025,UPI / Online Banking Fraud,1319,832,362,1486,8.95
+Chhattisgarh,CG,2025,Phishing & Social Engineering,839,389,100,671,5.24
+Chhattisgarh,CG,2025,Identity Theft & Impersonation,605,281,108,491,3.93
+Chhattisgarh,CG,2025,Cyber Stalking & Bullying,459,295,79,345,1.98
+Chhattisgarh,CG,2025,Ransomware & Malware Attacks,332,194,86,256,1.99
+Chhattisgarh,CG,2025,Corporate Data Breach,234,109,34,162,1.05
+Chhattisgarh,CG,2025,Account Takeover,421,235,92,393,3.5
+Chhattisgarh,CG,2025,Investment & Cryptocurrency Fraud,327,205,97,242,1.85
+Chhattisgarh,CG,2025,E-Commerce & Shopping Scam,222,130,50,162,1.44
+Chhattisgarh,CG,2025,Job & Recruitment Fraud,139,78,24,119,0.76
+Uttarakhand,UK,2019,UPI / Online Banking Fraud,646,310,78,369,3.54
+Uttarakhand,UK,2019,Phishing & Social Engineering,283,144,61,160,2.14
+Uttarakhand,UK,2019,Identity Theft & Impersonation,281,120,51,188,1.73
+Uttarakhand,UK,2019,Cyber Stalking & Bullying,171,89,29,105,1.37
+Uttarakhand,UK,2019,Ransomware & Malware Attacks,160,90,42,108,0.59
+Uttarakhand,UK,2019,Corporate Data Breach,115,56,16,64,0.5
+Uttarakhand,UK,2019,Account Takeover,166,74,33,106,0.93
+Uttarakhand,UK,2019,Investment & Cryptocurrency Fraud,162,100,47,177,0.96
+Uttarakhand,UK,2019,E-Commerce & Shopping Scam,96,46,13,65,0.72
+Uttarakhand,UK,2019,Job & Recruitment Fraud,66,42,15,72,0.44
+Uttarakhand,UK,2020,UPI / Online Banking Fraud,700,438,116,654,3.46
+Uttarakhand,UK,2020,Phishing & Social Engineering,358,154,54,199,2.92
+Uttarakhand,UK,2020,Identity Theft & Impersonation,354,193,69,320,1.79
+Uttarakhand,UK,2020,Cyber Stalking & Bullying,235,105,49,150,0.98
+Uttarakhand,UK,2020,Ransomware & Malware Attacks,163,85,28,150,0.73
+Uttarakhand,UK,2020,Corporate Data Breach,133,78,29,88,1.0
+Uttarakhand,UK,2020,Account Takeover,222,108,28,193,0.84
+Uttarakhand,UK,2020,Investment & Cryptocurrency Fraud,197,110,40,150,1.61
+Uttarakhand,UK,2020,E-Commerce & Shopping Scam,126,69,26,119,0.83
+Uttarakhand,UK,2020,Job & Recruitment Fraud,82,40,18,62,0.66
+Uttarakhand,UK,2021,UPI / Online Banking Fraud,794,427,137,496,6.54
+Uttarakhand,UK,2021,Phishing & Social Engineering,441,189,56,223,2.35
+Uttarakhand,UK,2021,Identity Theft & Impersonation,341,183,83,312,2.83
+Uttarakhand,UK,2021,Cyber Stalking & Bullying,296,156,51,205,0.96
+Uttarakhand,UK,2021,Ransomware & Malware Attacks,223,109,44,171,0.82
+Uttarakhand,UK,2021,Corporate Data Breach,133,73,29,127,0.41
+Uttarakhand,UK,2021,Account Takeover,260,134,54,157,1.5
+Uttarakhand,UK,2021,Investment & Cryptocurrency Fraud,202,119,30,209,1.42
+Uttarakhand,UK,2021,E-Commerce & Shopping Scam,133,67,18,97,0.83
+Uttarakhand,UK,2021,Job & Recruitment Fraud,81,42,15,64,0.6
+Uttarakhand,UK,2022,UPI / Online Banking Fraud,942,399,101,505,2.93
+Uttarakhand,UK,2022,Phishing & Social Engineering,444,281,82,473,1.2
+Uttarakhand,UK,2022,Identity Theft & Impersonation,340,143,58,236,2.82
+Uttarakhand,UK,2022,Cyber Stalking & Bullying,301,152,42,228,2.3
+Uttarakhand,UK,2022,Ransomware & Malware Attacks,213,98,40,156,1.62
+Uttarakhand,UK,2022,Corporate Data Breach,138,77,20,126,0.62
+Uttarakhand,UK,2022,Account Takeover,240,128,43,202,1.09
+Uttarakhand,UK,2022,Investment & Cryptocurrency Fraud,251,128,35,195,1.29
+Uttarakhand,UK,2022,E-Commerce & Shopping Scam,150,75,32,132,0.87
+Uttarakhand,UK,2022,Job & Recruitment Fraud,100,55,19,73,0.52
+Uttarakhand,UK,2023,UPI / Online Banking Fraud,1062,570,215,794,4.87
+Uttarakhand,UK,2023,Phishing & Social Engineering,539,227,92,259,2.26
+Uttarakhand,UK,2023,Identity Theft & Impersonation,423,200,54,278,2.0
+Uttarakhand,UK,2023,Cyber Stalking & Bullying,344,219,61,300,1.04
+Uttarakhand,UK,2023,Ransomware & Malware Attacks,247,138,54,215,1.96
+Uttarakhand,UK,2023,Corporate Data Breach,171,85,36,122,0.54
+Uttarakhand,UK,2023,Account Takeover,312,176,63,278,2.33
+Uttarakhand,UK,2023,Investment & Cryptocurrency Fraud,243,122,32,184,0.84
+Uttarakhand,UK,2023,E-Commerce & Shopping Scam,165,92,31,113,1.28
+Uttarakhand,UK,2023,Job & Recruitment Fraud,119,57,26,101,0.82
+Uttarakhand,UK,2024,UPI / Online Banking Fraud,1009,531,230,682,2.77
+Uttarakhand,UK,2024,Phishing & Social Engineering,639,343,159,465,3.33
+Uttarakhand,UK,2024,Identity Theft & Impersonation,433,248,76,442,2.2
+Uttarakhand,UK,2024,Cyber Stalking & Bullying,360,152,39,199,2.15
+Uttarakhand,UK,2024,Ransomware & Malware Attacks,245,123,42,147,1.1
+Uttarakhand,UK,2024,Corporate Data Breach,201,91,27,153,1.6
+Uttarakhand,UK,2024,Account Takeover,315,192,86,239,1.91
+Uttarakhand,UK,2024,Investment & Cryptocurrency Fraud,300,183,47,221,1.35
+Uttarakhand,UK,2024,E-Commerce & Shopping Scam,186,116,39,129,1.58
+Uttarakhand,UK,2024,Job & Recruitment Fraud,115,59,27,77,0.6
+Uttarakhand,UK,2025,UPI / Online Banking Fraud,1150,740,350,959,7.29
+Uttarakhand,UK,2025,Phishing & Social Engineering,766,366,149,612,6.48
+Uttarakhand,UK,2025,Identity Theft & Impersonation,437,190,81,301,1.66
+Uttarakhand,UK,2025,Cyber Stalking & Bullying,431,276,89,364,2.73
+Uttarakhand,UK,2025,Ransomware & Malware Attacks,306,136,36,168,2.42
+Uttarakhand,UK,2025,Corporate Data Breach,230,124,59,198,0.7
+Uttarakhand,UK,2025,Account Takeover,338,167,51,290,2.36
+Uttarakhand,UK,2025,Investment & Cryptocurrency Fraud,310,159,74,253,1.39
+Uttarakhand,UK,2025,E-Commerce & Shopping Scam,208,129,42,208,1.13
+Uttarakhand,UK,2025,Job & Recruitment Fraud,134,77,29,87,0.54

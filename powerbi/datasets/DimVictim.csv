@@ -1,0 +1,17 @@
+victim_age_group,victim_gender,VictimKey
+26-40,Male,1
+Senior Citizen (60+),Female,2
+Enterprise,Organization,3
+41-60,Male,4
+18-25,Female,5
+26-40,Female,6
+18-25,Male,7
+Senior Citizen (60+),Organization,8
+41-60,Female,9
+Senior Citizen (60+),Male,10
+26-40,Organization,11
+41-60,Organization,12
+18-25,Organization,13
+Enterprise,Female,14
+Enterprise,Male,15
+26-40,Individual,16

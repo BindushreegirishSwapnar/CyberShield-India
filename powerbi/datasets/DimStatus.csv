@@ -1,0 +1,29 @@
+current_status,investigation_status,priority,risk_level,StatusKey
+New,Initial Triage,Medium,MEDIUM,1
+New,Initial Triage,Medium,HIGH,2
+New,Initial Triage,Medium,CRITICAL,3
+Investigating,Bank Debit Freeze Requested via 1930,Medium,HIGH,4
+Under Review,FIR Registered u/s 66D IT Act & 384 IPC,High,CRITICAL,5
+Investigating,CERT-In Incident Response Team Deployed,Critical,CRITICAL,6
+Under Review,Notice Dispatched to Hosting Registrar for Takedown,High,HIGH,7
+New,Initial Triage & Bank Freeze Requisitions,High,HIGH,8
+Investigating,Section 91 CrPC Notice Sent to Meta Platforms,Medium,HIGH,9
+Investigating,Telecom Nodal Officer Summons Dispatched,Critical,CRITICAL,10
+Resolved,Accused Traced via IPDR and Arrested u/s 67A IT Act,Medium,HIGH,11
+Investigating,Forensic Audit Commissioned with CERT-In,Critical,CRITICAL,12
+New,Gateway Merchant Identity Requested,Medium,HIGH,13
+Investigating,Forensic Analysis & Bank Freeze Active,Critical,CRITICAL,14
+Resolved,Chargesheet Filed / Funds Recovered,Critical,CRITICAL,15
+Under Review,Evidence Acquisition & Intermediary Notices,Medium,MEDIUM,16
+New,Initial Triage,Critical,CRITICAL,17
+New,Initial Triage,High,HIGH,18
+Under Review,Evidence Acquisition & Intermediary Notices,High,HIGH,19
+Resolved,Chargesheet Filed / Funds Recovered,High,HIGH,20
+Investigating,Forensic Analysis & Bank Freeze Active,High,HIGH,21
+Under Review,Evidence Acquisition & Intermediary Notices,Critical,CRITICAL,22
+Investigating,Forensic Analysis & Bank Freeze Active,Medium,MEDIUM,23
+Resolved,Chargesheet Filed / Funds Recovered,Medium,MEDIUM,24
+Under Review,Evidence Acquisition & Intermediary Notices,Low,LOW,25
+New,Initial Triage,Low,LOW,26
+Resolved,Chargesheet Filed / Funds Recovered,Low,LOW,27
+Investigating,Forensic Analysis & Bank Freeze Active,Low,LOW,28

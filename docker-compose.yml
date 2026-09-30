@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cybershield_backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=production
+      - PORT=5000
+      - DATABASE_URL=sqlite:////app/cybercrime.db
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-cyber-shield-production-secret-key-2026}
+      - CORS_ORIGINS=*
+    volumes:
+      - backend_storage:/app/data
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        - VITE_API_URL=/api/v1
+    container_name: cybershield_frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend_storage:

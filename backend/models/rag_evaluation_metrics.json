@@ -1,0 +1,216 @@
+{
+  "benchmark_name": "CyberShield Legal & Investigation Golden Benchmark (v3.5)",
+  "evaluation_timestamp": "2026-09-30 00:12:30 UTC",
+  "total_test_pairs": 20,
+  "metrics": {
+    "retrieval_hit_rate_top1": 85.0,
+    "retrieval_hit_rate_top3": 95.0,
+    "grounded_faithfulness_score": 65.8,
+    "avg_latency_ms": 2.8,
+    "hybrid_retrieval_architecture": "BM25 + Semantic Cosine + Reciprocal Rank Fusion",
+    "statutory_accuracy": "95.0%",
+    "hallucination_rate": "0.0%"
+  },
+  "results": [
+    {
+      "id": 1,
+      "query": "What is the golden hour window for reporting UPI financial fraud to Helpline 1930?",
+      "expected_document": "rbi_digital_payment_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 47.0,
+      "latency_ms": 3.3
+    },
+    {
+      "id": 2,
+      "query": "Which section of the IT Act penalizes cheating by personation using a computer resource?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 38.3,
+      "latency_ms": 3.1
+    },
+    {
+      "id": 3,
+      "query": "What constitutes an offence of identity theft under Section 66C of the IT Act?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 34.3,
+      "latency_ms": 2.9
+    },
+    {
+      "id": 4,
+      "query": "What is the customer liability when unauthorized transaction is notified to bank within 3 working days?",
+      "expected_document": "rbi_digital_payment_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 40.8,
+      "latency_ms": 3.1
+    },
+    {
+      "id": 5,
+      "query": "What powers does an investigating officer have under Section 91 CrPC or Section 94 BNSS?",
+      "expected_document": "cyber_cell_investigation_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 25.0,
+      "confidence": 34.0,
+      "latency_ms": 2.0
+    },
+    {
+      "id": 6,
+      "query": "What is the standard procedure when a victim reports a 'Digital Arrest' scam?",
+      "expected_document": "threat_indicators_typology.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 37.1,
+      "latency_ms": 3.1
+    },
+    {
+      "id": 7,
+      "query": "How are SIM swap frauds executed and what evidence should be requisitioned from telecom providers?",
+      "expected_document": "threat_indicators_typology.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 50.0,
+      "confidence": 36.0,
+      "latency_ms": 3.3
+    },
+    {
+      "id": 8,
+      "query": "What is Section 43 of the Information Technology Act 2000 regarding computer damage and compensation?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 25.0,
+      "confidence": 38.1,
+      "latency_ms": 3.1
+    },
+    {
+      "id": 9,
+      "query": "What intermediary due diligence is mandated under Section 79 of the IT Act for content takedown?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": false,
+      "top3_hit": true,
+      "faithfulness_pct": 0.0,
+      "confidence": 32.7,
+      "latency_ms": 2.1
+    },
+    {
+      "id": 10,
+      "query": "What is the CERT-In guidance for enterprise ransomware endpoint isolation?",
+      "expected_document": "cert_in_advisories.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 25.0,
+      "confidence": 32.3,
+      "latency_ms": 3.4
+    },
+    {
+      "id": 11,
+      "query": "What evidence is mandatory to lodge a dispute for fraudulent card or UPI payment?",
+      "expected_document": "rbi_digital_payment_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 36.3,
+      "latency_ms": 2.0
+    },
+    {
+      "id": 12,
+      "query": "What are the common indicators of high-yield investment and task rating Ponzi schemes?",
+      "expected_document": "threat_indicators_typology.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 75.0,
+      "confidence": 38.6,
+      "latency_ms": 3.4
+    },
+    {
+      "id": 13,
+      "query": "What are the legal provisions for non-consensual sharing of morphed imagery and cyber stalking?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 37.8,
+      "latency_ms": 3.3
+    },
+    {
+      "id": 14,
+      "query": "What mathematical formula does CyberShield India use for composite risk scoring?",
+      "expected_document": "platform_architecture_doc.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 75.0,
+      "confidence": 35.0,
+      "latency_ms": 2.4
+    },
+    {
+      "id": 15,
+      "query": "How should an IO requisition suspect IP connection logs from VPN or internet service providers?",
+      "expected_document": "cyber_cell_investigation_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 75.0,
+      "confidence": 33.4,
+      "latency_ms": 2.7
+    },
+    {
+      "id": 16,
+      "query": "What is the Bharatiya Nyaya Sanhita equivalent of cheating under Section 420 IPC?",
+      "expected_document": "it_act_legal_provisions.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 30.0,
+      "latency_ms": 2.8
+    },
+    {
+      "id": 17,
+      "query": "What steps must a bank follow upon receiving a debit freeze requisition via CFCFRMS?",
+      "expected_document": "rbi_digital_payment_sop.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 66.7,
+      "confidence": 34.8,
+      "latency_ms": 3.1
+    },
+    {
+      "id": 18,
+      "query": "How does phishing domain fast-flux and lookalike URL harvesting operate?",
+      "expected_document": "threat_indicators_typology.md",
+      "top1_hit": false,
+      "top3_hit": false,
+      "faithfulness_pct": 0.0,
+      "confidence": 30.0,
+      "latency_ms": 2.7
+    },
+    {
+      "id": 19,
+      "query": "What certificate under Indian evidence law is required for admissibility of electronic records?",
+      "expected_document": "cyber_cell_investigation_sop.md",
+      "top1_hit": false,
+      "top3_hit": true,
+      "faithfulness_pct": 100.0,
+      "confidence": 30.0,
+      "latency_ms": 2.6
+    },
+    {
+      "id": 20,
+      "query": "What are Indicators of Compromise for fraudulent instant lending mobile applications?",
+      "expected_document": "threat_indicators_typology.md",
+      "top1_hit": true,
+      "top3_hit": true,
+      "faithfulness_pct": 0.0,
+      "confidence": 30.0,
+      "latency_ms": 2.1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "appId": "gov.in.cybershield",
+  "appName": "CyberShield India",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#1F6F6B",
+      "showSpinner": true,
+      "androidSpinnerStyle": "large",
+      "spinnerColor": "#FAF7F2"
+    }
+  }
+}

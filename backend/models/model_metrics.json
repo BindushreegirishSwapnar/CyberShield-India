@@ -1,0 +1,101 @@
+{
+  "model_version": "v2.0-Production",
+  "champion_algorithm": "Multinomial Naive Bayes",
+  "training_samples": 250,
+  "train_set_size": 200,
+  "test_set_size": 50,
+  "categories_count": 10,
+  "categories": [
+    "Phishing Attack",
+    "Online Financial Fraud",
+    "Identity Theft",
+    "Cyber Bullying / Harassment",
+    "Ransomware / Malware",
+    "Data Breach",
+    "Account Takeover",
+    "Social Engineering",
+    "Online Shopping Fraud",
+    "Investment/Crypto Fraud"
+  ],
+  "performance": {
+    "accuracy": 90.0,
+    "precision_macro": 91.67,
+    "recall_macro": 90.0,
+    "f1_macro": 89.82,
+    "f1_weighted": 89.82,
+    "cv_f1_mean": 83.9,
+    "cv_scores": [
+      91.68,
+      76.8,
+      85.86,
+      81.26
+    ]
+  },
+  "comparison_matrix": {
+    "Calibrated Linear SVM": {
+      "accuracy": 88.0,
+      "precision_macro": 90.38,
+      "recall_macro": 88.0,
+      "f1_macro": 88.13,
+      "f1_weighted": 88.13,
+      "cv_f1_mean": 81.71,
+      "cv_scores": [
+        78.1,
+        83.03,
+        85.39,
+        80.33
+      ]
+    },
+    "Multinomial Naive Bayes": {
+      "accuracy": 90.0,
+      "precision_macro": 91.67,
+      "recall_macro": 90.0,
+      "f1_macro": 89.82,
+      "f1_weighted": 89.82,
+      "cv_f1_mean": 83.9,
+      "cv_scores": [
+        91.68,
+        76.8,
+        85.86,
+        81.26
+      ]
+    },
+    "Logistic Regression (Balanced)": {
+      "accuracy": 90.0,
+      "precision_macro": 91.67,
+      "recall_macro": 90.0,
+      "f1_macro": 89.82,
+      "f1_weighted": 89.82,
+      "cv_f1_mean": 83.45,
+      "cv_scores": [
+        82.9,
+        78.97,
+        89.98,
+        81.96
+      ]
+    },
+    "Random Forest (100 Trees)": {
+      "accuracy": 72.0,
+      "precision_macro": 79.05,
+      "recall_macro": 72.0,
+      "f1_macro": 73.3,
+      "f1_weighted": 73.3,
+      "cv_f1_mean": 69.7,
+      "cv_scores": [
+        79.71,
+        64.06,
+        69.6,
+        65.44
+      ]
+    }
+  },
+  "feature_count": 2790,
+  "vectorizer_params": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 3500,
+    "sublinear_tf": true
+  }
+}

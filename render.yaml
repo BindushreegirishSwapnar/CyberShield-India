@@ -1,0 +1,37 @@
+services:
+  # Python Flask Backend Web Service
+  - type: web
+    name: cybershield-api
+    env: python
+    region: singapore
+    plan: free
+    buildCommand: "cd backend && pip install -r requirements.txt"
+    startCommand: "cd backend && gunicorn --bind 0.0.0.0:$PORT --workers 2 --threads 4 --timeout 120 app:app"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: FLASK_ENV
+        value: production
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: GEMINI_API_KEY
+        sync: false
+
+  # React PWA Static Site (or Docker Web Service)
+  - type: web
+    name: cybershield-web
+    env: static
+    region: singapore
+    plan: free
+    buildCommand: "cd frontend && npm install && npm run build"
+    staticPublishPath: "./frontend/dist"
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: cybershield-api
+          property: host

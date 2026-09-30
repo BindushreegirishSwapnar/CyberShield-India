@@ -1,0 +1,32 @@
+crime_type,subcategory,predicted_category,CrimeKey
+Phishing Attack,,Phishing Attack,1
+Identity Theft,,Identity Theft,2
+Online Financial Fraud,,Online Financial Fraud,3
+Cyber Bullying / Harassment,,Cyber Bullying / Harassment,4
+Ransomware / Malware,,Ransomware / Malware,5
+Data Breach,,Data Breach,6
+Online Shopping Fraud,,Online Shopping Fraud,7
+Investment/Crypto Fraud,,Investment/Crypto Fraud,8
+Online Financial Fraud,QR Code Scanning Coercion,Online Financial Fraud,9
+Social Engineering,Digital Arrest / Fake Law Enforcement,Social Engineering,10
+Ransomware / Malware,Enterprise Network Encryption,Ransomware / Malware,11
+Phishing Attack,Fake SBI Netbanking Cloned Portal,Phishing Attack,12
+Investment/Crypto Fraud,Telegram Task Rating Ponzi,Investment/Crypto Fraud,13
+Identity Theft,Social Media Impersonation & Extortion,Identity Theft,14
+Account Takeover,Telecom SIM Swap Credential Hijack,Identity Theft,15
+Cyber Bullying / Harassment,Morphed Non-Consensual Imagery Extortion,Cyber Bullying / Harassment,16
+Data Breach,Cloud S3 Storage Bucket Exfiltration,Data Breach,17
+Online Shopping Fraud,Counterfeit Gadget Advance Payment Fraud,Online Shopping Fraud,18
+Social Engineering,Digital Arrest / Fake Law Enforcement Coercion,Social Engineering,19
+Online Financial Fraud,QR Code Scanning Coercion / OLX Advance,Online Financial Fraud,20
+Account Takeover,Telecom SIM Swap & 2FA Bypass,Online Financial Fraud,21
+Cyber Bullying / Harassment,Morphed Non-Consensual Imagery & Extortion,Cyber Bullying / Harassment,22
+Identity Theft,Matrimonial Profile Impersonation & Loan Fraud,Identity Theft,23
+Online Shopping Fraud,Counterfeit E-Commerce & Flash Sale Scam,Online Shopping Fraud,24
+Phishing Attack,Cloned Banking Portal & Credential Theft,Phishing Attack,25
+Data Breach,Cloud Storage Exfiltration & Dark Web Leak,Data Breach,26
+Investment/Crypto Fraud,Telegram Task Rating & Crypto Ponzi,Investment/Crypto Fraud,27
+Account Takeover,Telecom SIM Swap & 2FA Bypass,Account Takeover,28
+Ransomware / Malware,Enterprise Endpoint Encryption & Extortion,Ransomware / Malware,29
+Phishing Attack,Online Fraudulent Incident,Phishing Attack,30
+Identity Theft,Digital Loan Fraud & Profile Impersonation,Identity Theft,31
